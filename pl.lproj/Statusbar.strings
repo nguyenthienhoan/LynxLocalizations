@@ -24,5 +24,19 @@
     <string>Włączenie "Ukrycia kolorowych widoków" wypływa na Usługi lokalizacji, hotspot i nagrywanie ekranu na iPhone X i nowszych</string>
     <key>STATUS_BAR</key>
     <string>Pasek stanu</string>
+    <key>HIDE_EVERYWHERE</key>
+    <string>Ukryj wszystko</string>
+    <key>BATTERY_SECTION</key>
+    <string>Bateria</string>
+    <key>SHOW_PERCENTAGE</key>
+    <string>Pokaż procentowy poziom naładowania baterii</string>
+    <key>HIDE_CLOCK</key>
+    <string>Ukryj zegar</string>
+    <key>CARRIER</key>
+    <string>Operator</string>
+    <key>USE_CUSTOM_CARRIER</key>
+    <string>Użyj własnej nazwy operatora</string>
+    <key>ENTER_CUSTOM_CARRIER_TEXT</key>
+    <string>Nazwa operatora</string>
 </dict>
 </plist>

@@ -12,5 +12,7 @@
     <string>Wyłącz na ekranie początkowym</string>
     <key>TODAY_VIEW</key>
     <string>Widok Dzisiaj</string>
+    <key>HIDE_NEW_WIDGETS_BUTTON</key>
+    <string>Ukryj informacje o nowych widgetach</string>
 </dict>
 </plist>
