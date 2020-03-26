@@ -1,6 +1,10 @@
 # LynxLocalizations
 Repository for all [Lynx](https://repo.twickd.com/package/com.twickd.mtac.lynx) localizations
 
+# Pull Requests
+
+Please fork this repository and put all changes in one pull request, this helps with merging.
+
 ## Updates and adding new languages
 
 Fork this repo to your GitHub account. If you are updating strings for an existing language, directly edit the files in the corresponding .lproj folder for the language. Create a pull request to add the updated strings.
