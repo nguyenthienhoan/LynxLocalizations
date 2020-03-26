@@ -3,6 +3,6 @@
     <key>COINS</key>
     <string>Monety</string>
     <key>HIDE_COIN_BUTTON</key>
-    <string>Ukryj monetę na ekranie głównym.</string>
+    <string>Ukryj monetę na ekranie domowym.</string>
 </dict>
 </plist> 
