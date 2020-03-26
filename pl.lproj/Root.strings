@@ -7,7 +7,7 @@
     <key>SECTIONS</key>
     <string>Sekcje</string>
     <key>SYSTEM_WIDE</key>
-    <string>Ogólnosystemowe</string>
+    <string>Systemowe</string>
     <key>LOCKSCREEN</key>
     <string>Ekran blokady</string>
     <key>APP_SWITCHER</key>
@@ -52,5 +52,11 @@
     <string>Tłumaczenia</string>
     <key>CONTRIBUTORS</key>
     <string>Współtwórcy</string>
+    <key>CHECK_OUT_SATINE</key>
+    <string>Sprawdź moją paczkę ikon - Satine</string>    
+    <key>TWEAK_BLACKLIST</key>
+    <string>Czarna lista wtyczek</string>
+    <key>DISABLE_IN</key>
+    <string>Wyłącz Lynx w aplikacjach</string>
 </dict>
 </plist>

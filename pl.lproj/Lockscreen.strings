@@ -114,5 +114,7 @@
     <string>Użyj płynnego przewijania</string>
     <key>HIDE_SWIPE_SEPARATORS</key>
     <string>Ukryj seperatory przesuwania</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Ukryj przycisk "X"</string>
 </dict>
 </plist>

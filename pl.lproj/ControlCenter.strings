@@ -11,7 +11,7 @@
     <key>HIDE_CONNECTIVITY_SEPARATORS</key>
     <string>Ukryj separatory łączności</string>
     <key>DISABLE_TOGGLES</key>
-    <string>Faktycznie wyłączaj przełączniki</string>
+    <string>Stałe wyłączenie przełączników WiFi/BT</string>
     <key>CONTROL_CENTER</key>
     <string>Centrum Sterowania</string>
     <key>USE_DARK_MODULES</key>

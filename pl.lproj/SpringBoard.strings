@@ -131,6 +131,26 @@
     <key>ICON_FLY_IN</key>
     <string>Wyłącz przylot ikon</string>
     <key>SYSTEM_WIDE</key>
-    <string>Ogólnosystemowe</string>
+    <string>Systemowe</string>
+    <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
+    <string>Uzyj własnej ilości kolumn</string>
+    <key>HIDE_COMPLETELY</key>
+    <string>Ukryj całkowicie</string>
+    <key>HIDE_BAR_LOCKSCREEN</key>
+    <string>Ukryj pasek na ekranie blokady</string>
+    <key>USE_MODERN_STYLE_TABLEVIEWS</key>
+    <string>Użyj alternatywnego sposobu wyświetlania tabel</string>
+    <key>FORCE_SMALL_TITLES</key>
+    <string>Wymuś małe nagłówki</string>
+    <key>DISABLE_SCREENSHOT_SOUND</key>
+    <string>Wyłącz dźwięk screenshota</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>Ukryj wskaźniki wersji testowych</string>
+    <key>HIDE_BETA_FEEDBACK</key>
+    <string>Ukryj opcję feedbacku</string>
+    <key>VOLUME_HUD</key>
+    <string>Suwak głośności</string>
+    <key>HIDE_VOLUME_HUD</key>
+    <string>Ukryj suwak głośności</string>
 </dict>
 </plist>
