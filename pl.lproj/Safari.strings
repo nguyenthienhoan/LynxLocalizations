@@ -5,7 +5,7 @@
     <key>USE_TAB_OVERVIEW</key>
     <string>Podgląd kart</string>
     <key>DISCLAIMER_PLACEHOLDER</key>
-    <string>Używając tej funkcji może generować artefakty, ponieważ została przeznaczona na iPady. </string>
+    <string>Używanie tej funkcji może generować artefakty, ponieważ została przeznaczona na iPady. </string>
     <key>BACKGROUND_PLAYBACK</key>
     <string>Odtwarzanie w tle</string>
     <key>ENABLE_BACKGROUND_PLAYBACK</key>
