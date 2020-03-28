@@ -30,5 +30,9 @@
 	<string>Add Info Button</string>
 	<key>SETTINGS</key>
 	<string>Settings</string>
+	<key>UPDATES</key>
+	<string>Updates</string>
+	<key>HIDE_UPDATES_BADGE</key>
+	<string>Hide Updates Badge</string>
 </dict>
 </plist>
