@@ -18,5 +18,7 @@
     <string>Use Dark Modules</string>
     <key>DARK_MODULE_WARNING</key>
     <string>Dark Modules doesn't work for the Flashlight module</string>
+    <key>TOGGLES</key>
+    <string>Toggles</string>
 </dict>
 </plist>
