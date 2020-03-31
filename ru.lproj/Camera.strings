@@ -1,0 +1,18 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>Вид</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>Использовать стиль iPad</string>
+    <key>PREVIEW</key>
+    <string>Последнее Сделанное Фото/Видео</string>
+    <key>HIDE_RECENT_PREVIEW</key>
+    <string>Скрыть Превью Последней Фотографии</string>
+    <key>CAMERA</key>
+    <string>Камера</string>
+    <key>SHUTTER_SOUND</key>
+    <string>Кнопка Затвора</string>
+    <key>DISABLE_SHUTTER_SOUND</key>
+    <string>Выключить Звук Затвора</string>
+</dict>
+</plist>

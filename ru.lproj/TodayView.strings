@@ -1,0 +1,18 @@
+<plist version="1.0">
+<dict>
+    <key>WIDGETS_VIEW</key>
+    <string>Просмотр Виджетов</string>
+    <key>HIDE_EDIT_BUTTON</key>
+    <string>Скрыть Кнопку Изменить</string>
+    <key>HIDE_WEATHER_INFO</key>
+    <string>Скрыть Информационный Текст Погоды</string>
+    <key>DISABLE_ON_LOCKSCREEN</key>
+    <string>Выключить на Экране Блокировки</string>
+    <key>DISABLE_ON_SPRINGBOARD</key>
+    <string>Выключить на Домашнем Экране</string>
+    <key>TODAY_VIEW</key>
+    <string>Экран «Сегодня»</string>
+    <key>HIDE_NEW_WIDGETS_BUTTON</key>
+    <string>Скрыть Кнопку «Новый Виджет»</string>
+</dict>
+</plist>

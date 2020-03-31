@@ -1,0 +1,26 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>Вид</string>
+    <key>USE_GRID_SWITCHER</key>
+    <string>Использовать Сетку Многозадачности</string>
+    <key>HANDOFF</key>
+    <string>Handoff</string>
+    <key>HIDE_APP_SUGGESTIONS</key>
+    <string>Скрыть Предлагаемые Приложения</string>
+    <key>APP_CARDS</key>
+    <string>Карточки Приложений</string>
+    <key>HIDE_APP_LABELS</key>
+    <string>Скрыть Названия Приложений</string>
+    <key>HIDE_APP_ICONS</key>
+    <string>Скрыть Иконки Приложений</string>
+    <key>NOW_PLAYING</key>
+    <string>Сейчас Играет</string>
+    <key>PREVENT_APP_KILL</key>
+    <string>Предотвращать Закрытие Приложений В Которых Воспроизводится Медиа</string>
+    <key>APP_SWITCHER</key>
+    <string>Многозадачность</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Использовать Произвольный Размер Карточек</string>
+</dict>
+</plist>

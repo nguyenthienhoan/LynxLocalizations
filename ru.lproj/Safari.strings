@@ -1,0 +1,10 @@
+<plist version="1.0">
+<dict>
+    <key>TAB_OVERVIEW</key>
+    <string>Предпросмотр Вкладок</string>
+    <key>USE_TAB_OVERVIEW</key>
+    <string>Использовать Предпросмотр Вкладок</string>
+    <key>DISCLAIMER_PLACEHOLDER</key>
+    <string>Анимации могут быть немного глючными на iPhone если вы выберите 'Предпросмотр Вкладок' так как эта функция предназначена только для iPad</string>
+</dict>
+</plist>

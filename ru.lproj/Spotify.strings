@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>POPUPS</key>
+    <string>Всплывющие окна</string>
+    <key>BLOCK_RATE_US</key>
+    <string>Блокировать всплывающее окно 'Оцените Нас'</string>
+</dict>
+</plist>
