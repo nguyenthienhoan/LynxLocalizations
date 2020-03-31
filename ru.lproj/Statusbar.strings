@@ -13,7 +13,7 @@
     <key>HIDE_LOCK_ICON</key>
     <string>Скрыть Замок Блокировки</string>
     <key>LOCK_ICON_PLACEHOLDER</key>
-    <string>Hide Lock Icon only works on iPhone 8 and below</string>
+    <string>Скрытие значка блокировки работает только на iPhone 8 и ниже</string>
     <key>HOTSPOT_AND_RECORDING</key>
     <string>Точка Доступа и Запись Экрана</string>
     <key>HIDE_COLORED_VIEW</key>
@@ -21,7 +21,7 @@
     <key>HIDE_PULSING_VIEW</key>
     <string>Скрыть Пульсирующий Вид</string>
     <key>ROUNDED_VIEW_PLACEHOLDER</key>
-    <string>Enabling 'Hide Colored View' affects Location Services, Hotspot and Screen Recording on iPhone X or newer</string>
+    <string>Включение функции 'скрыть цветной вид' влияет на службы определения местоположения, точки доступа и запись экрана на iPhone X или новее</string>
     <key>STATUS_BAR</key>
     <string>Статус Бар</string>
     <key>HIDE_EVERYWHERE</key>

@@ -11,7 +11,7 @@
     <key>HIDE_DOCK_BACKGROUND</key>
     <string>Скрыть Фон</string>
     <key>USE_CUSTOM_ICON_COUNT</key>
-    <string>Использовать Произвольное Число Иконок В Доке</string>
+    <string>Число Иконок В Доке</string>
     <key>HOME_BAR</key>
     <string>Home Bar</string>
     <key>HIDE_BAR_EVERYWHERE</key>
@@ -53,9 +53,9 @@
     <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
     <string>Скрыть Фон Открытия</string>
     <key>HIDE_FOLDER_ICON_BACKGROUND</key>
-    <string>Скрыть Фон Значка Папки</string>
+    <string>Скрыть Фон Иконки Папки</string>
     <key>CLOSE_FOLDER_AUTOMATICALLY</key>
-    <string>Закрыть Папки Автоматически</string>
+    <string>Закрывать Папки Автоматически</string>
     <key>ICONS</key>
     <string>Иконки</string>
     <key>HIDE_LABELS</key>
@@ -131,7 +131,7 @@
     <key>ICON_FLY_IN</key>
     <string>Отключить Всплывание Иконок</string>
     <key>SYSTEM_WIDE</key>
-    <string>Общесистемный</string>
+    <string>Системные Настройки</string>
     <key>HIDE_VOLUME_HUD</key>
     <string>Скрыть Ползунок Громкости</string>
     <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
@@ -139,7 +139,7 @@
     <key>USE_MODERN_STYLE_TABLEVIEWS</key>
     <string>Использовать Современный Стиль</string>
     <key>FORCE_SMALL_TITLES</key>
-    <string>Принуждённо Использовать Маленькие Названия</string>
+    <string>Использовать Маленькие Названия</string>
     <key>HIDE_BETA_FEEDBACK</key>
     <string>Скрыть Бета-Feedback</string>
     <key>VOLUME_HUD</key>
