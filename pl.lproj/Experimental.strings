@@ -9,15 +9,17 @@
     <key>USE_CIRCLE_ICONS</key>
     <string>Okrągłe ikony</string>
     <key>AUTO_LAYOUT_PLACEHOLDER</key>
-    <string>Wymuszenie "układu automatycznego" może powodować podskoczenie ikon podczas otwierania zbioru powiadomień</string>
+    <string>Wymuszenie "układu automatycznego" może powodować błędne wyświetlanie ikon podczas otwierania kilku powiadomień</string>
     <key>EXPERIMENTAL</key>
     <string>Experimental</string>
     <key>HAPTIC_TOUCH</key>
     <string>Haptic Touch</string>
     <key>DISABLE_HAPTIC_TOUCH</key>
     <string>Wyłącz Haptic Touch</string>
+    <key>SCREEN</key>
+    <string>Ekran</string>
     <key>ROUND_SCREEN_WARNING</key>
-    <string>Zaokrąglone ekrany działają tylko na urządzeniach non-notched.</string>
+    <string>Zaokrąglone ekrany działają tylko na urządzeniach bez notcha</string>
     <key>ROUND_SCREEN_CORNERS</key>
     <string>Zaokrąglone rogi ekranu</string>
     <key>DISABLE_ON_HOMESCREEN</key>
