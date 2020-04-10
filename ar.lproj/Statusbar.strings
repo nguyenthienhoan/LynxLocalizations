@@ -1,63 +1,63 @@
 <plist version="1.0">
 <dict>
     <key>STATUS_ITEMS</key>
-    <string>Status Items</string>
+    <string>عناصر الحالة</string>
     <key>HIDE_WIFI_SIGNAL</key>
-    <string>Hide Wifi Signal</string>
+    <string>إخفاء إشارة الـ Wi-Fi</string>
     <key>HIDE_CELLULAR_SIGNAL</key>
-    <string>Hide Cell Signal</string>
+    <string>إخفاء إشارة الخلوي</string>
     <key>HIDE_BATTERY</key>
-    <string>Hide Battery</string>
+    <string>إخفاء البطارية</string>
     <key>LOCKSCREEN</key>
-    <string>Lockscreen</string>
+    <string>شاشة القفل</string>
     <key>HIDE_LOCK_ICON</key>
-    <string>Hide Lock Icon</string>
+    <string>إخفاء أيقونة القفل</string>
     <key>LOCK_ICON_PLACEHOLDER</key>
-    <string>Hide Lock Icon only works on iPhone 8 and below</string>
+    <string>إخفاء أيقونة القفل يعمل فقط على iPhone 8 وأقدم</string>
     <key>HOTSPOT_AND_RECORDING</key>
-    <string>Hotspot and Recording</string>
+    <string>نقطة الاتصال الشخصية والتسجيل</string>
     <key>HIDE_COLORED_VIEW</key>
-    <string>Hide Colored View</string>
+    <string>إخفاء المظهر الملون</string>
     <key>HIDE_PULSING_VIEW</key>
-    <string>Hide Pulsing View</string>
+    <string>إخفاء مظهر النبض</string>
     <key>ROUNDED_VIEW_PLACEHOLDER</key>
-    <string>Enabling 'Hide Colored View' affects Location Services, Hotspot and Screen Recording on iPhone X or newer</string>
+    <string>تفعيل 'إخفاء المظهر الملون' يؤثر في خدمات الموقع، نقطة الاتصال الشخصية وتسجيل الشاشة على iPhone X وأحدث</string>
     <key>STATUS_BAR</key>
-    <string>Status Bar</string>
+    <string>شريط الحالة</string>
     <key>HIDE_EVERYWHERE</key>
-    <string>Hide Everywhere</string>
+    <string>إخفاء في كل مكان</string>
     <key>HIDING</key>
-    <string>Hiding</string>
+    <string>الإخفاء</string>
     <key>HIDE_CLOCK</key>
-    <string>Hide Clock</string>
+    <string>إخفاء الساعة</string>
     <key>USE_CUSTOM_CARRIER</key>
-    <string>Use Custom Carrier</string>
+    <string>استخدام ناقل مخصص</string>
     <key>ENTER_CUSTOM_CARRIER_TEXT</key>
-    <string>Enter custom carrier text</string>
+    <string>أدخل نص الناقل المخصص</string>
     <key>BATTERY_SECTION</key>
-    <string>Battery</string>
+    <string>البطارية</string>
     <key>SHOW_PERCENTAGE</key>
-    <string>Show Percentage</string>
+    <string>إظهار النسبة المئوية</string>
     <key>USE_WIFI_ADDRESS</key>
-    <string>Use Wifi Address</string>
+    <string>استخدام عنوان الـ Wi-Fi</string>
     <key>ANIMATIONS</key>
-    <string>Animations</string>
+    <string>التأثيرات الحركية</string>
     <key>HIDE_CARRIER_TEXT</key>
-    <string>Hide Carrier Text</string>
+    <string>إخفاء نص الناقل</string>
     <key>HIDE_LOCATION_ARROW</key>
-    <string>Hide Location Arrow</string>
+    <string>إخفاء سهم الموقع</string>
     <key>HIDE_ROTATION_LOCK</key>
-    <string>Hide Rotation Lock</string>
+    <string>إخفاء قفل الدوران</string>
     <key>HIDE_DND_MOON</key>
-    <string>Hide Do Not Disturb Moon</string>
+    <string>إخفاء قمر عدم الإزعاج</string>
     <key>HIDE_ALARM_BELL</key>
-    <string>Hide Alarm Bell</string>
+    <string>إخفاء جرس المنبه</string>
     <key>HIDE_AIRPLANE_MODE</key>
-    <string>Hide Airplane Mode</string>
+    <string>إخفاء نمط الطيران</string>
     <key>HIDE_VPN</key>
-    <string>Hide VPN</string>
+    <string>إخفاء VPN</string>
     <key>DISABLE_AIRPLANE_ANIMATION</key>
-    <string>Disable Airplane Animation</string>
+    <string>تعطيل تأثير نمط الطيران الحركي</string>
     <key></key>
     <string></string>
 </dict>
