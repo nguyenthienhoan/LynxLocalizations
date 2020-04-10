@@ -1,18 +1,18 @@
 <plist version="1.0">
 <dict>
     <key>WIDGETS_VIEW</key>
-    <string>Widgets View</string>
+    <string>مظهر الأدوات</string>
     <key>HIDE_EDIT_BUTTON</key>
-    <string>Hide Edit Button</string>
+    <string>إخفاء زر التحرير</string>
     <key>HIDE_WEATHER_INFO</key>
-    <string>Hide Weather Info Text</string>
+    <string>إخفاء نص معلومات الطقس</string>
     <key>DISABLE_ON_LOCKSCREEN</key>
-    <string>Disable on Lockscreen</string>
+    <string>تعطيل على شاشة القفل</string>
     <key>DISABLE_ON_SPRINGBOARD</key>
-    <string>Disable on SpringBoard</string>
+    <string>تعطيل على واجهة النظام</string>
     <key>TODAY_VIEW</key>
-    <string>Today View</string>
+    <string>مظهر اليوم</string>
     <key>HIDE_NEW_WIDGETS_BUTTON</key>
-    <string>Hide New Widgets Button</string>
+    <string>إخفاء زر الأدوات الجديدة</string>
 </dict>
 </plist>
