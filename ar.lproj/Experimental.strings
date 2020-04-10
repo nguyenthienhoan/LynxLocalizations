@@ -1,26 +1,26 @@
 <plist version="1.0">
 <dict>
     <key>NOTIFICATION_ICONS</key>
-    <string>Notification Icons</string>
+    <string>أيقونات الإشعارات</string>
     <key>USE_MODERN_STYLE</key>
-    <string>Use Modern Style</string>
+    <string>استخدام نمط عصري</string>
     <key>AUTO_LAYOUT</key>
-    <string>Force Auto Layout</string>
+    <string>إجبار التنسيق التلقائي</string>
     <key>USE_CIRCLE_ICONS</key>
-    <string>Use Circle Icons</string>
+    <string>استخدام أيقونات دائرية</string>
     <key>AUTO_LAYOUT_PLACEHOLDER</key>
-    <string>Forcing 'Auto-Layout' may cause icons to jump when opening notification stacks</string>
+    <string>إجبار 'التنسيق التلقائي' قد يتسبب في قفز الأيقونات عند فتح الإشعارات المجمعة</string>
     <key>EXPERIMENTAL</key>
-    <string>Experimental</string>
+    <string>تجريبي</string>
     <key>HAPTIC_TOUCH</key>
-    <string>Haptic Touch</string>
+    <string>الحس اللمسي</string>
     <key>DISABLE_HAPTIC_TOUCH</key>
-    <string>Disable Haptic Touch</string>
+    <string>تعطيل الحس اللمسي</string>
     <key>ROUND_SCREEN_WARNING</key>
-    <string>Round screen corners only works on non-notched devices</string>
+    <string>تدوير زوايا الشاشة يعمل فقط على الأجهزة التي لا تحتوي على نتوء</string>
     <key>ROUND_SCREEN_CORNERS</key>
-    <string>Round Screen Corners</string>
+    <string>تدوير زوايا الشاشة</string>
     <key>DISABLE_ON_HOMESCREEN</key>
-    <string>Disable On Homescreen</string>
+    <string>تعطيل على الشاشة الرئيسية</string>
 </dict>
 </plist>
