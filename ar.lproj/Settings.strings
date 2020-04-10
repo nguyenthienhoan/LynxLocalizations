@@ -3,36 +3,36 @@
 	<key>APPLE_ID</key>
 	<string>Apple ID</string>
 	<key>USE_CUSTOM_FIRST_NAME</key>
-	<string>Use Custom First Name</string>
+	<string>استخدام اسم أول مخصص</string>
 	<key>FIRST_NAME</key>
-	<string>First Name</string>
+	<string>الاسم الأول</string>
 	<key>USE_CUSTOM_LAST_NAME</key>
-	<string>Use Custom Last Name</string>
+	<string>استخدام اسم أخير مخصص</string>
 	<key>LAST_NAME</key>
-	<string>Last Name</string>
+	<string>الاسم الأخير</string>
 	<key>CELLS</key>
-	<string>Cells</string>
+	<string>الخلايا</string>
 	<key>HIDE_THIRD_PARTY_APPS</key>
-	<string>Hide Third Party Apps</string>
+	<string>إخفاء تطبيقات الطرف الثالث</string>
 	<key>HIDE_CELL_ICONS</key>
-	<string>Hide Cell Icons</string>
+	<string>إخفاء أيقونات الخلايا</string>
 	<key>HIDE_CHEVRONS</key>
-	<string>Hide Chevrons</string>
+	<string>إخفاء شارات التوسيع</string>
 	<key>NETWORK</key>
-	<string>Network</string>
+	<string>الشبكة</string>
 	<key>SHOW_IP_ADDRESS</key>
-	<string>Show IP Address</string>
+	<string>إظهار عنوان IP</string>
 	<key>SHOW_ETHERNET_SECTION</key>
-	<string>Show Ethernet Section</string>
+	<string>إظهار قسم Ethernet</string>
 	<key>OTHER</key>
-	<string>Other</string>
+	<string>أخرى</string>
 	<key>ADD_INFO_BUTTON</key>
-	<string>Add Info Button</string>
+	<string>إضافة زر معلومات</string>
 	<key>SETTINGS</key>
-	<string>Settings</string>
+	<string>الإعدادات</string>
 	<key>UPDATES</key>
-	<string>Updates</string>
+	<string>التحديثات</string>
 	<key>HIDE_UPDATES_BADGE</key>
-	<string>Hide Updates Badge</string>
+	<string>إخفاء شارة التحديثات</string>
 </dict>
 </plist>
