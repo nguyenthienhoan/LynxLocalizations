@@ -3,7 +3,7 @@
     <key>DIALER_BUTTONS</key>
     <string>أزرار الطلب</string>
     <key>HIDE_NUMBER_BUTTON_BACKGROUND</key>
-    <string>إخفاء خلفية زر الرقم</string>
+    <string>إخفاء خلفيات أزرار الأرقام</string>
     <key>CALLS</key>
     <string>المكالمات</string>
     <key>SHOW_EXACT_TIME</key>
