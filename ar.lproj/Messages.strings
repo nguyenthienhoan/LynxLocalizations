@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>CONTACT_PHOTOS</key>
-    <string>صور الأسماء</string>
+    <string>Contact Photos</string>
     <key>HIDE_SHARE_PHOTO_BANNER</key>
-    <string>أخفاء شريط المشاركة</string>
+    <string>Hide Share Photo Banner</string>
     <key>APP_STRIP</key>
-    <string>شريط التطبيقات</string>
+    <string>App Strip</string>
     <key>HIDE_MESSAGE_APPS</key>
-    <string>iMessage أخفاء تطبيقات</string>
+    <string>Hide iMessage Apps</string>
     <key>MESSAGE_BUBBLES</key>
-    <string>تدرج لون فقاعات الرسائل</string>
+    <string>Message Bubbles</string>
     <key>USE_CUSTOM_BUBBLE_COLOR</key>
-    <string>تمكين</string>
+    <string>Use Custom Bubble Color</string>
     <key>TINT_COLOR</key>
-    <string>نحديد لون</string>
+    <string>Tint Color</string>
     <key>MESSAGES</key>
-    <string>الرسائل</string>
-    <key>Color 1</key>
-    <string>لون أول</string>
-    <key>Color 2</key>
-    <string>لون ثاني</string>
+    <string>Messages</string>
 </dict>
-</plist>
