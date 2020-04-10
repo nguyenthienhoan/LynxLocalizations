@@ -1,28 +1,28 @@
 <plist version="1.0">
 <dict>
     <key>STYLE</key>
-    <string>Style</string>
+    <string>النمط</string>
     <key>USE_GRID_SWITCHER</key>
-    <string>Use Grid Switcher</string>
+    <string>استخدام مبدل الشبكة</string>
     <key>HANDOFF</key>
     <string>Handoff</string>
     <key>HIDE_APP_SUGGESTIONS</key>
-    <string>Hide App Suggestions</string>
+    <string>إخفاء اقتراحات التطبيقات</string>
     <key>APP_CARDS</key>
-    <string>App Cards</string>
+    <string>بطاقات التطبيقات</string>
     <key>HIDE_APP_LABELS</key>
-    <string>Hide App Labels</string>
+    <string>إخفاء تسميات التطبيقات</string>
     <key>HIDE_APP_ICONS</key>
-    <string>Hide App Icons</string>
+    <string>إخفاء أيقونات التطبيقات</string>
     <key>NOW_PLAYING</key>
-    <string>Now Playing</string>
+    <string>ما يجرِ تشغيله</string>
     <key>PREVENT_APP_KILL</key>
-    <string>Prevent Killing of Playing Apps</string>
+    <string>منع إغلاق التطبيقات التي يجرِ بها تشغيل موسيقى أو صوتيات</string>
     <key>APP_SWITCHER</key>
-    <string>App Switcher</string>
+    <string>مبدل التطبيقات</string>
     <key>USE_CUSTOM_SCALE</key>
-    <string>Use Custom Card Scale</string>
+    <string>استخدام مقاس بطاقة مخصص</string>
     <key>SWIPE_DOWN_TO_KILL</key>
-    <string>Swipe Down To Kill</string>
+    <string>السحب للأسفل للإغلاق</string>
 </dict>
 </plist>
