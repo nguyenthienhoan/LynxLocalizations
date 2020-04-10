@@ -21,7 +21,7 @@
     <key>HIDE_TABLE_VIEW_SEPARATORS</key>
     <string>إخفاء الفواصل</string>
     <key>USE_CUSTOM_COLOR</key>
-    <string>استخدام لون منصص</string>
+    <string>استخدام لون مخصص</string>
     <key>COLORPICKER_TINT_COLOR</key>
     <string>لون الصبغة</string>
     <key>SEARCH_BARS</key>
@@ -81,7 +81,7 @@
     <key>FORCE_TOUCH</key>
     <string>3D Touch</string>
     <key>HIDE_SHARE_OPTION</key>
-    <string>إخفاء خيار مشاركة التطبيقات</string>
+    <string>إخفاء خيار مشاركة التطبيق</string>
     <key>HIDE_DELETE_OPTION</key>
     <string>إخفاء خيار حذف التطبيق</string>
     <key>HIDE_EDIT_OPTION</key>
