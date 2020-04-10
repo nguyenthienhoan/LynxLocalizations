@@ -1,12 +1,12 @@
 <plist version="1.0">
 <dict>
     <key>TAB_OVERVIEW</key>
-    <string>Tab Overview</string>
+    <string>لمحة علامة التبويب</string>
     <key>USE_TAB_OVERVIEW</key>
-    <string>Use Tab Overview</string>
+    <string>استخدام لمحة علامة التبويب</string>
     <key>DISCLAIMER_PLACEHOLDER</key>
-    <string>Animations may be buggy on iPhone when selecting 'Use Tab Overview' as it's intended for iPads only</string>
+    <string>التأثيرات الحركية قد تكون شائبة للغابة في أجهزة الـ iPhone عند تحديد 'استخدام لمحة علامة التبويب' حيث أن الميزة مخصصة لأجهزة الـ iPad فقط</string>
     <key>ENABLE_BACKGROUND_PLAYBACK</key>
-    <string>Enable Background Playback</string>
+    <string>تفعيل التشغيل في الخلفية</string>
 </dict>
 </plist>
