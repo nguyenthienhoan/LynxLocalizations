@@ -1,8 +1,8 @@
 <plist version="1.0">
 <dict>
     <key>UPDATES_TAB</key>
-    <string>Updates Tab</string>
+    <string>تبويب التحديثات</string>
     <key>REPLACE_UPDATES</key>
-    <string>Replace Arcade with Updates</string>
+    <string>استبدال تبويب آركيد بتبويب التحديثات</string>
 </dict>
 </plist>
