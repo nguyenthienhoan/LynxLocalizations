@@ -1,20 +1,20 @@
 <plist version="1.0">
 <dict>
     <key>CONTACT_PHOTOS</key>
-    <string>Contact Photos</string>
+    <string>صور جهات الاتصال</string>
     <key>HIDE_SHARE_PHOTO_BANNER</key>
-    <string>Hide Share Photo Banner</string>
+    <string>إخفاء شعار مشاركة الصورة</string>
     <key>APP_STRIP</key>
-    <string>App Strip</string>
+    <string>شريط التطبيقات</string>
     <key>HIDE_MESSAGE_APPS</key>
-    <string>Hide iMessage Apps</string>
+    <string>إخفاء تطبيقات iMessage</string>
     <key>MESSAGE_BUBBLES</key>
-    <string>Message Bubbles</string>
+    <string>فقاعات الرسائل</string>
     <key>USE_CUSTOM_BUBBLE_COLOR</key>
-    <string>Use Custom Bubble Color</string>
+    <string>استخدام لون فقاعة مخصص</string>
     <key>TINT_COLOR</key>
-    <string>Tint Color</string>
+    <string>لون الصبغة</string>
     <key>MESSAGES</key>
-    <string>Messages</string>
+    <string>الرسائل</string>
 </dict>
 </plist>
