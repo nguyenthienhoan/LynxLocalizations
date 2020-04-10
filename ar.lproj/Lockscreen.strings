@@ -1,118 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>CLOCK</key>
-    <string>الوقت</string>
+    <string>Clock</string>
     <key>HIDE_TIME_LABEL</key>
-    <string>أخفاء الساعة</string>
+    <string>Hide Time Label</string>
     <key>HIDE_DATE_LABEL</key>
-    <string>أخفاء التاريخ</string>
+    <string>Hide Date Label</string>
     <key>CLOCK_FONT_STYLE</key>
-    <string>تنسيق عرض الخط</string>
+    <string>Clock Font Style</string>
     <key>CLOCK_FONT_WEIGHT</key>
-    <string>حجم الخط</string>
+    <string>Clock Font Weight</string>
     <key>DEFAULT_FONT</key>
-    <string>إفتراضي</string>
+    <string>Default</string>
     <key>BOLD_FONT</key>
-    <string>سـميك</string>
+    <string>Bold</string>
     <key>ITALIC_FONT</key>
-    <string>مـائل</string>
+    <string>Italic</string>
     <key>MEDIUM_FONT</key>
-    <string>مـتوسط</string>
+    <string>Medium</string>
     <key>CONTROL_CENTER_GRABBER</key>
-    <string>مركز التحكم Grabber</string>
+    <string>Control Center Grabber</string>
     <key>HIDE_CONTROL_CENTER_GRABBER</key>
-    <string>أخفاء شريط مركز التحكم</string>
+    <string>Hide Control Center Grabber</string>
     <key>CHARGING_VIEW</key>
-    <string>عرض الشحن</string>
+    <string>Charging View</string>
     <key>HIDE_BATTERY_VIEW</key>
-    <string>أخفاء عرض البطارية</string>
+    <string>Hide Battery View</string>
     <key>PAGE_DOTS</key>
-    <string>نقاط أسفل الصفحة</string>
+    <string>Page Dots</string>
     <key>HIDE_PAGE_DOTS</key>
-    <string>أخفاء</string>
+    <string>Hide Page Dots</string>
     <key>NOTIFICATIONS</key>
-    <string>الإشعارات</string>
+    <string>Notifications</string>
     <key>HIDE_APP_NAMES</key>
-    <string>أخفاء أسماء التطبيقات</string>
+    <string>Hide App Names</string>
     <key>HIDE_TIME_LABELS</key>
-    <string>أخفاء وقت الإستلام</string>
+    <string>Hide Time Labels</string>
     <key>HIDE_NOTIFICATION_CENTER_TEXT</key>
-    <string>أخفاء نص لاتوجد إشعارات</string>
+    <string>Hide 'Notification Center' Text</string>
     <key>SET_NOTIFICATION_CENTER_TEXT</key>
-    <string>تغيير نص 'لاتوجد إشعارات'</string>
+    <string>Set 'Notification Center' Text</string>
     <key>NOTIFICATION_CENTER_PLACEHOLDER</key>
-    <string>نص مخصص</string>
+    <string>Notification Center</string>
     <key>PASSCODE_SCREEN</key>
-    <string>صفحة أدخال الرمز</string>
+    <string>Passcode Screen</string>
     <key>HIDE_FACE_ID_LOCK</key>
-    <string>أخفاء شكل بصمة الوجه</string>
+    <string>Hide FaceID Padlock</string>
     <key>HIDE_PASSCODE_BACKGROUND</key>
-    <string>أخفاء تظليل الصفحة</string>
+    <string>Hide Passcode Background</string>
     <key>HIDE_EMERGENCY_BUTTON</key>
-    <string>أخفاء زر الطوارئ</string>
+    <string>Hide Emergency Button</string>
     <key>HIDE_CANCEL_BUTTON</key>
-    <string>أخفاء زر ألغاء</string>
+    <string>Hide Cancel Button</string>
     <key>HIDE_BACKSPACE_BUTTON</key>
-    <string>أخفاء زر الحذف</string>
+    <string>Hide Delete Button</string>
     <key>HIDE_ENTER_PASSCODE_TEXT</key>
-    <string>أخفاء نص أدخل الرمز</string>
+    <string>Hide 'Enter Passcode' Text</string>
     <key>USE_CUSTOM_PASSCODE_TEXT</key>
-    <string>نص مخصص بدل أدخل الرمز</string>
+    <string>Use Custom Passcode Text</string>
     <key>ENTER_PASSCODE_PLACEHOLDER</key>
-    <string>نص مخصص</string>
+    <string>Enter Passcode</string>
     <key>QUICK_ACTION_BUTTONS</key>
-    <string>أخفاء أزرار الوصول السريع</string>
+    <string>Quick Action Buttons</string>
     <key>HIDE_BOTH</key>
-    <string>كلاهما</string>
+    <string>Hide Both</string>
     <key>HIDE_TORCH_BUTTON</key>
-    <string>زر المصباح</string>
+    <string>Hide Flashlight Button</string>
     <key>HIDE_CAMERA_BUTTON</key>
-    <string>زر الكاميرا</string>
+    <string>Hide Camera Button</string>
     <key>UNLOCK_TEXT</key>
-    <string>نص فتح القفل</string>
+    <string>Unlock Text</string>
     <key>HIDE_SWIPE_PRESS</key>
-    <string>أخفاء نص (سحب للأعلى/ أضغط للفتح)</string>
+    <string>Hide Swipe Up/Press To Unlock</string>
     <key>HIDE_TOP_SWIPE_TEXT</key>
     <string>Hide top 'Swipe' text</string>
     <key>OLDER_NOTIFICATIONS</key>
-    <string>إشعارات قديمة</string>
+    <string>Older Notifications</string>
     <key>HIDE_NO_OLDER_NOTIFICATIONS</key>
-    <string>أخفاء لاتوجد إشعارات قديمة</string>
+    <string>Hide 'No Older Notifications' text</string>
     <key>CAMERA</key>
-    <string>الكاميرا</string>
+    <string>Camera</string>
     <key>DISABLE_CAMERA_SWIPE</key>
-    <string>أيقاف سحب للفتح</string>
+    <string>Disable Camera Swipe</string>
     <key>FORCE_ENABLE_CAMERA</key>
-    <string>أضغط بقوة للفتح</string>
+    <string>Force Enable Camera</string>
     <key>FORCE_CAMERA_STRING</key>
-    <string>مفتاح (أضغط بقوة للفتح) لايعمل إلا عند أيقاف سحب للفتح.</string>
+    <string>Enabling 'Force enable camera' works only when hiding camera swipe</string>
     <key>MEDIA_CONTROLS</key>
-    <string>مشغل الموسيقى</string>
+    <string>Media Controls</string>
     <key>HIDE_MEDIA_PLAYER</key>
-    <string>أخفاء تام</string>
+    <string>Hide Media Player</string>
     <key>LOCKSCREEN</key>
-    <string>شاشة القفل</string>
+    <string>Lockscreen</string>
     <key>USE_HAPTIC_FEEDBACK</key>
-    <string>أستخدام هزاز الهابتك</string>
+    <string>Use Haptic Feedback</string>
     <key>DO_NOT_DISTURB</key>
-    <string>وضع عدم الأزعاج</string>
+    <string>Do Not Disturb</string>
     <key>HIDE_BANNER</key>
-    <string>أخفاء البانر</string>
+    <string>Hide Banner</string>
     <key>NOTIFICATION_HEIGHT</key>
-    <string>مستوى أرتفاع الإشعارات</string>
+    <string>Notification Height</string>
     <key>USE_CUSTOM_FONT_WEIGHT</key>
-    <string>تغيير سمك خط</string>
+    <string>Use Custom Weight</string>
     <key>USE_CUSTOM_SWIPE_TEXT</key>
-    <string>تغيير نص</string>
+    <string>Use Custom Text</string>
     <key>CUSTOM_TEXT</key>
-    <string>أكتب هنا</string>
-    <key>USE_SMOOTHER_SWIPING</key>
-    <string>تمرير أكثر سلاسة</string>
-    <key>HIDE_SWIPE_SEPARATORS</key>
-    <string>أخفاء فواصل التمرير</string>
+    <string>Custom Text</string>
     <key>SHOW_IMMEDIATELY</key>
-    <string>عرض على الفور</string>
+    <string>Show Immediately</string>
+    <key>DISPLAY_IMMEDIATELY</key>
+    <string>Always Show Older Notifications</string>
+    <key>USE_SMOOTHER_SWIPING</key>
+    <string>Use Smoother Swiping</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>Hide Swipe Separators</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Hide 'X' Button</string>
+    <key>FACE_ID</key>
+    <string>Face ID</string>
+    <key>STYLE</key>
+    <string>Style</string>
+    <key>ALWAYS_USE_DO_NOT_DISTURB</key>
+    <string>Always use DND dark style</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Hide 'X' Button</string>
 </dict>
 </plist>
