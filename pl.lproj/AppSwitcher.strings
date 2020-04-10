@@ -20,5 +20,7 @@
     <string>Zapobiegaj zabijaniu grających aplikacji</string>
     <key>APP_SWITCHER</key>
     <string>Przełączanie aplikacji</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Użyj własnej skali karty</string>
 </dict>
 </plist>

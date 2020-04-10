@@ -52,8 +52,12 @@
     <string>Tłumaczenia</string>
     <key>CONTRIBUTORS</key>
     <string>Współtwórcy</string>
+    <key>TROUBLESHOOTING</key>
+    <string>Rozwiązywanie problemów</string>
     <key>CHECK_OUT_SATINE</key>
-    <string>Sprawdź moją paczkę ikon - Satine</string>    
+    <string>Sprawdź moją paczkę ikon - Satine</string>
+    <key>APPLY_BUTTON</key>
+    <string>Zastosuj</string>
     <key>TWEAK_BLACKLIST</key>
     <string>Czarna lista wtyczek</string>
     <key>DISABLE_IN</key>
