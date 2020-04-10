@@ -1,70 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>APPLY_BUTTON</key>
-	<string>تطبيق</string>
-	<key>APP_STORE_SECTION</key>
-	<string>متجر التطبيقات</string>
-	<key>APP_SWITCHER</key>
-	<string>مبدل التطبيقات</string>
-	<key>CAMERA_SECTION</key>
-	<string>الكاميرا</string>
-	<key>CHECK_OUT_SATINE</key>
-	<string>شاهد ثيم (Satiné)</string>
-	<key>CONTACT_DEVELOPER</key>
-	<string>راسل مطور الأداة:</string>
-	<key>CONTRIBUTORS</key>
-	<string>المساهمون</string>
-	<key>CONTROL_CENTER</key>
-	<string>مركز التحكم</string>
-	<key>ENABLE_TWEAK</key>
-	<string>تفعيل الأداة</string>
-	<key>EXPERIMENTAL_SECTION</key>
-	<string>تجريبي</string>
-	<key>LOCKSCREEN</key>
-	<string>شاشة القفل</string>
-	<key>MAIN_TWEAK_SETTINGS</key>
-	<string>صفحة الإعدادات الرئيسية:</string>
-	<key>MESSAGES_SECTION</key>
-	<string>الرسائل</string>
-	<key>OTHER_HEADER</key>
-	<string>أخرى:</string>
-	<key>PHONE_SECTION</key>
-	<string>الهاتف</string>
-	<key>PHOTOS_SECTION</key>
-	<string>الصور</string>
-	<key>REPORT_BUG</key>
-	<string>قسم المشاكل</string>
-	<key>REQUEST_FEATURE</key>
-	<string>طلب إضافة جدبدة</string>
-	<key>Reset Settings</key>
-	<string>إعادة ضبط</string>
-	<key>SAFARI_SECTION</key>
-	<string>سفاري</string>
-	<key>SECTIONS</key>
-	<string>الأقسام:</string>
-	<key>SETTINGS_SECTION</key>
-	<string>الإعدادات</string>
-	<key>STATUS_BAR</key>
-	<string>شريط الحالة</string>
-	<key>SUPPORT_HEADER</key>
-	<string>الدعم:</string>
-	<key>SYSTEM_WIDE</key>
-	<string>أعدادات النظام</string>
-	<key>Special Thanks</key>
-	<string>شكر خاص إلى:</string>
-	<key>THIRD_PARTY_SECTION</key>
-	<string>تطبيقات المتجر:</string>
-	<key>TRANSLATIONS</key>
-	<string>مترجمون اللغات:</string>
-	<key>TROUBLESHOOTING</key>
-	<string>إعادة ضبط جميع الإعدادات:</string>
-	<key>TWEAK_GRAPHICS</key>
-	<string>تأثيرات الأداة:</string>
-	<key>Tweak Settings</key>
-	<string>إعادة ضبط إعدادات الأداة:</string>
-	<key>WIDGETS_VIEW</key>
-	<string>الصفحة اليومية (ويدجيت)</string>
+    <key>MAIN_TWEAK_SETTINGS</key>
+    <string>Main Tweak Settings</string>
+    <key>ENABLE_TWEAK</key>
+    <string>Enable Tweak</string>
+    <key>SECTIONS</key>
+    <string>Sections</string>
+    <key>SYSTEM_WIDE</key>
+    <string>System Wide</string>
+    <key>LOCKSCREEN</key>
+    <string>Lockscreen</string>
+    <key>APP_SWITCHER</key>
+    <string>App Switcher</string>
+    <key>STATUS_BAR</key>
+    <string>Status Bar</string>
+    <key>CONTROL_CENTER</key>
+    <string>Control Center</string>
+    <key>WIDGETS_VIEW</key>
+    <string>Today View</string>
+    <key>MESSAGES_SECTION</key>
+    <string>Messages</string>
+    <key>SETTINGS_SECTION</key>
+    <string>Settings</string>
+    <key>PHOTOS_SECTION</key>
+    <string>Photos</string>
+    <key>SAFARI_SECTION</key>
+    <string>Safari</string>
+    <key>APP_STORE_SECTION</key>
+    <string>App Store</string>
+    <key>CAMERA_SECTION</key>
+    <string>Camera</string>
+    <key>PHONE_SECTION</key>
+    <string>Phone</string>
+    <key>OTHER_HEADER</key>
+    <string>Other</string>
+    <key>EXPERIMENTAL_SECTION</key>
+    <string>Experimental</string>
+    <key>THIRD_PARTY_SECTION</key>
+    <string>Third Party Apps</string>
+    <key>CONTACT_DEVELOPER</key>
+    <string>Contact</string>
+    <key>SUPPORT_HEADER</key>
+    <string>Support</string>
+    <key>REQUEST_FEATURE</key>
+    <string>Request a Feature</string>
+    <key>REPORT_BUG</key>
+    <string>Report a Bug</string>
+    <key>TWEAK_GRAPHICS</key>
+    <string>Tweak Graphics</string>
+    <key>TRANSLATIONS</key>
+    <string>Translations</string>
+    <key>CONTRIBUTORS</key>
+    <string>Contributors</string>
+    <key>TROUBLESHOOTING</key>
+    <string>Troubleshooting</string>
+    <key>CHECK_OUT_SATINE</key>
+    <string>Check out Satiné</string>
+    <key>APPLY_BUTTON</key>
+    <string>Apply</string>
+    <key>TWEAK_BLACKLIST</key>
+    <string>Tweak Blacklist</string>
+    <key>DISABLE_IN</key>
+    <string>Disable Lynx in Applications</string>
+    <key>OTHER_TWEAKS</key>
+    <string>Other Projects</string>
+    <key>TRANSLATORS</key>
+    <string>Translators</string>
+    <key>SPECIAL_THANKS</key>
+    <string>Special Thanks</string>
+    <key>RESET_SETTINGS</key>
+    <string>Reset Settings</string>
+    <key>RESET_SETTINGS_WARNING</key>
+    <string>Are you sure you want to reset settings?</string>
 </dict>
 </plist>
