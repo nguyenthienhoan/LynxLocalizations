@@ -1,91 +1,91 @@
 <plist version="1.0">
 <dict>
     <key>APP_INTERFACE_STYLE</key>
-    <string>App Interface Style</string>
+    <string>نمط واجهة التطبيقات</string>
     <key>DARK_MODE</key>
-    <string>Dark</string>
+    <string>داكن</string>
     <key>LIGHT_MODE</key>
-    <string>Light</string>
+    <string>فاتح</string>
     <key>DOCK</key>
     <string>Dock</string>
     <key>HIDE_DOCK_BACKGROUND</key>
-    <string>Hide Background</string>
+    <string>إخفاء الخلفية</string>
     <key>USE_CUSTOM_ICON_COUNT</key>
-    <string>Use Custom Icon Count</string>
+    <string>استخدام عدد أيقونة مخصص</string>
     <key>HOME_BAR</key>
-    <string>Home Bar</string>
+    <string>الشريط الرئيسي</string>
     <key>HIDE_BAR_EVERYWHERE</key>
-    <string>Hide Everywhere</string>
+    <string>إخفاء في كل مكان</string>
     <key>TABLE_VIEWS</key>
-    <string>Table Views</string>
+    <string>عرض الجداول</string>
     <key>HIDE_TABLE_VIEW_SEPARATORS</key>
-    <string>Hide Separators</string>
+    <string>إخفاء الفواصل</string>
     <key>USE_CUSTOM_COLOR</key>
-    <string>Use Custom Color</string>
+    <string>استخدام لون منصص</string>
     <key>COLORPICKER_TINT_COLOR</key>
-    <string>Tint Color</string>
+    <string>لون الصبغة</string>
     <key>SEARCH_BARS</key>
-    <string>Search Bars</string>
+    <string>أشرطة البحث</string>
     <key>HIDE_SEARCH_BARS</key>
-    <string>Hide Completely</string>
+    <string>إخفاء تمامًا</string>
     <key>HIDE_SEARCH_BAR_BACKGROUND</key>
-    <string>Hide Background</string>
+    <string>إخفاء الخلفية</string>
     <key>SEARCH_BAR_WARNING</key>
-    <string>Hiding Search Bars may cause apps to act strange, this is intentional based on the way they're hidden</string>
+    <string>إخفاء أشرطة البحث قد يؤدي إلى جعل التطبيقات تبدو غريبة، وهذا شيء مقصود بناءً على طريقة إخفائها</string>
     <key>SCREENSHOTS</key>
-    <string>Screenshots</string>
+    <string>لقطات الشاشة</string>
     <key>HIDE_FLASH</key>
-    <string>Hide Flash</string>
+    <string>إخفاء الوميض</string>
     <key>FLASH_TINT_COLOR</key>
-    <string>Flash Tint Color</string>
+    <string>لون صبغة الوميض</string>
     <key>SCROLL_INDICATORS</key>
-    <string>Scroll View Indicators</string>
+    <string>تمرير مؤشرات العرض</string>
     <key>HIDE_SCROLL_BARS</key>
-    <string>Hide Scroll Bars</string>
+    <string>إخفاء أشرطة التمرير</string>
     <key>NAVIGATION_BARS</key>
-    <string>Navigation Bars</string>
+    <string>أشرطة التنقل</string>
     <key>HIDE_SHADOW_IMAGE</key>
-    <string>Hide Shadow Image</string>
+    <string>إخفاء ظل الصورة</string>
     <key>FOLDERS</key>
-    <string>Folders</string>
+    <string>المجلدات</string>
     <key>HIDE_FOLDER_TITLES</key>
-    <string>Hide Folder Titles</string>
+    <string>إخفاء عناوين المجلدات</string>
     <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
-    <string>Hide Open Background</string>
+    <string>إخفاء خلفية الفتح</string>
     <key>HIDE_FOLDER_ICON_BACKGROUND</key>
-    <string>Hide Folder Icon Background</string>
+    <string>إخفاء خلفية أيقونة المجلد</string>
     <key>CLOSE_FOLDER_AUTOMATICALLY</key>
-    <string>Close Automatically</string>
+    <string>إغلاق تلقائيًا</string>
     <key>ICONS</key>
-    <string>Icons</string>
+    <string>الأيقونات</string>
     <key>HIDE_LABELS</key>
-    <string>Hide Labels</string>
+    <string>إخفاء التسميات</string>
     <key>HIDE_PAGE_DOTS</key>
-    <string>Hide Page Dots</string>
+    <string>إخفاء نقاط الصفحات</string>
     <key>HIDE_UPDATE_DOTS</key>
-    <string>Hide Update Dots</string>
+    <string>إخفاء نقاط التحديث</string>
     <key>SHOW_DONE_BUTTON</key>
-    <string>Show 'Done' Button</string>
+    <string>إظهار زر 'تم'</string>
     <key>USE_CUSTOM_LABEL_COLOR</key>
-    <string>Use Custom Label Color</string>
+    <string>استخدام لون تسمية مخصص</string>
     <key>SWITCHES</key>
-    <string>Switches</string>
+    <string>المفاتيح</string>
     <key>USE_CUSTOM_SWITCH_COLOR</key>
-    <string>Use Custom On Color</string>
+    <string>استخدام لون مخصص</string>
     <key>BADGES</key>
-    <string>Badges</string>
+    <string>الشارات</string>
     <key>HIDE_BADGES</key>
-    <string>Hide Badges</string>
+    <string>إخفاء الشارات</string>
     <key>USE_AVERAGE_COLOR</key>
-    <string>Use Average Color</string>
+    <string>استخدام لون معتدل</string>
     <key>FORCE_TOUCH</key>
     <string>3D Touch</string>
     <key>HIDE_SHARE_OPTION</key>
-    <string>Hide Share App Option</string>
+    <string>إخفاء خيار مشاركة التطبيقات</string>
     <key>HIDE_DELETE_OPTION</key>
-    <string>Hide Delete App Option</string>
+    <string>إخفاء خيار حذف التطبيق</string>
     <key>HIDE_EDIT_OPTION</key>
-    <string>Hide Edit Option</string>
+    <string>إخفاء خيار التحرير</string>
     <key>REVERSE_ACTION_ORDER</key>
     <string>Reverse Action Order</string>
     <key>HIDE_ACTION_ICONS</key>
