@@ -1,76 +1,76 @@
 <plist version="1.0">
 <dict>
     <key>MAIN_TWEAK_SETTINGS</key>
-    <string>Main Tweak Settings</string>
+    <string>إعدادات الأداة الرئيسية</string>
     <key>ENABLE_TWEAK</key>
-    <string>Enable Tweak</string>
+    <string>تفعيل الأداة</string>
     <key>SECTIONS</key>
-    <string>Sections</string>
+    <string>الأقسام</string>
     <key>SYSTEM_WIDE</key>
-    <string>System Wide</string>
+    <string>النظام بأكمله</string>
     <key>LOCKSCREEN</key>
-    <string>Lockscreen</string>
+    <string>شاشة القفل</string>
     <key>APP_SWITCHER</key>
-    <string>App Switcher</string>
+    <string>مبدل التطبيقات</string>
     <key>STATUS_BAR</key>
-    <string>Status Bar</string>
+    <string>شريط الحالة</string>
     <key>CONTROL_CENTER</key>
-    <string>Control Center</string>
+    <string>مركز التحكم</string>
     <key>WIDGETS_VIEW</key>
-    <string>Today View</string>
+    <string>مظهر اليوم</string>
     <key>MESSAGES_SECTION</key>
-    <string>Messages</string>
+    <string>الرسائل</string>
     <key>SETTINGS_SECTION</key>
-    <string>Settings</string>
+    <string>الإعدادات</string>
     <key>PHOTOS_SECTION</key>
-    <string>Photos</string>
+    <string>الصور</string>
     <key>SAFARI_SECTION</key>
     <string>Safari</string>
     <key>APP_STORE_SECTION</key>
     <string>App Store</string>
     <key>CAMERA_SECTION</key>
-    <string>Camera</string>
+    <string>الكاميرا</string>
     <key>PHONE_SECTION</key>
-    <string>Phone</string>
+    <string>الهاتف</string>
     <key>OTHER_HEADER</key>
-    <string>Other</string>
+    <string>أخرى</string>
     <key>EXPERIMENTAL_SECTION</key>
-    <string>Experimental</string>
+    <string>تجريبي</string>
     <key>THIRD_PARTY_SECTION</key>
-    <string>Third Party Apps</string>
+    <string>تطبيقات الطرف الثالث</string>
     <key>CONTACT_DEVELOPER</key>
-    <string>Contact</string>
+    <string>التواصل</string>
     <key>SUPPORT_HEADER</key>
-    <string>Support</string>
+    <string>الدعم</string>
     <key>REQUEST_FEATURE</key>
-    <string>Request a Feature</string>
+    <string>طلب ميزة</string>
     <key>REPORT_BUG</key>
-    <string>Report a Bug</string>
+    <string>الإبلاغ عن شائبة</string>
     <key>TWEAK_GRAPHICS</key>
-    <string>Tweak Graphics</string>
+    <string>صور الأداة</string>
     <key>TRANSLATIONS</key>
-    <string>Translations</string>
+    <string>الترجمات</string>
     <key>CONTRIBUTORS</key>
-    <string>Contributors</string>
+    <string>المساهمون</string>
     <key>TROUBLESHOOTING</key>
-    <string>Troubleshooting</string>
+    <string>استكشاف الأخطاء وإصلاحها</string>
     <key>CHECK_OUT_SATINE</key>
-    <string>Check out Satiné</string>
+    <string>تحقق من Satiné</string>
     <key>APPLY_BUTTON</key>
-    <string>Apply</string>
+    <string>تطبيق</string>
     <key>TWEAK_BLACKLIST</key>
-    <string>Tweak Blacklist</string>
+    <string>قائمة الأداة السوداء</string>
     <key>DISABLE_IN</key>
-    <string>Disable Lynx in Applications</string>
+    <string>تعطيل Lynx في تطبيقات</string>
     <key>OTHER_TWEAKS</key>
-    <string>Other Projects</string>
+    <string>مشاريع أخرى</string>
     <key>TRANSLATORS</key>
-    <string>Translators</string>
+    <string>المترجمون</string>
     <key>SPECIAL_THANKS</key>
-    <string>Special Thanks</string>
+    <string>شكر خاص</string>
     <key>RESET_SETTINGS</key>
-    <string>Reset Settings</string>
+    <string>إعادة تعيين الإعدادات</string>
     <key>RESET_SETTINGS_WARNING</key>
-    <string>Are you sure you want to reset settings?</string>
+    <string>هل أنت متأكد أنك تريد إعادة تعيين الإعدادات؟?</string>
 </dict>
 </plist>
