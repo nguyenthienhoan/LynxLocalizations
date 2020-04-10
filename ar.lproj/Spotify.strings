@@ -3,6 +3,6 @@
     <key>POPUPS</key>
     <string>الانبثاق</string>
     <key>BLOCK_RATE_US</key>
-    <string>حظ تنبيه 'قيمنا' المنبثق</string>
+    <string>حظر تنبيه 'قيمنا' المنبثق</string>
 </dict>
 </plist>
