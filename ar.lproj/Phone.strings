@@ -1,32 +1,32 @@
 <plist version="1.0">
 <dict>
     <key>DIALER_BUTTONS</key>
-    <string>Dialer Buttons</string>
+    <string>أزرار الطلب</string>
     <key>HIDE_NUMBER_BUTTON_BACKGROUND</key>
-    <string>Hide Number Button Background</string>
+    <string>إخفاء خلفية زر الرقم</string>
     <key>CALLS</key>
-    <string>Calls</string>
+    <string>المكالمات</string>
     <key>SHOW_EXACT_TIME</key>
-    <string>Show Exact Time</string>
+    <string>إظهار الوقت بالضبط</string>
     <key>TAB_BAR</key>
-    <string>Tab Bar</string>
+    <string>شريط التبويبات</string>
     <key>HIDE_VOICEMAIL_TAB</key>
-    <string>Hide Voicemail Tab</string>
+    <string>إخفاء تبويب البريد الصوتي</string>
     <key>CALL_BUTTON</key>
-    <string>Call Button</string>
+    <string>زر المكالمة</string>
     <key>HIDE_BACKGROUND</key>
-    <string>Hide Background</string>
+    <string>إخفاء الخلفية</string>
     <key>USE_CUSTOM_CALL_BUTTON_COLOR</key>
-    <string>Use Custom Call Button Color</string>
+    <string>استخدام لون زر مكالمة مخصص</string>
     <key>TINT_COLOR</key>
-    <string>Tint Color</string>
+    <string>لون الصبغة</string>
     <key>EXPERIMENTAL</key>
-    <string>Experimental</string>
+    <string>تجريبي</string>
     <key>USE_LARGE_BUTTON</key>
-    <string>Use Large Button</string>
+    <string>استخدام زر كبير</string>
     <key>WARNING_PLACEHOLDER</key>
-    <string>Enabling large call bar may cause issues in call screens, please disable if you experience any layout issues</string>
+    <string>تفعيل شريط المكالمة الكبير قد يتسبب في حدوث مشكلات في شاشة الاتصال، يرجى تعطيله إذا واجهت أي مشكلة في التنسيق</string>
     <key>PHONE</key>
-    <string>Phone</string>
+    <string>الهاتف</string>
 </dict>
 </plist>
