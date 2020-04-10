@@ -1,8 +1,8 @@
 <plist version="1.0">
 <dict>
     <key>COINS</key>
-    <string>Coins</string>
+    <string>العملات المعدنية</string>
     <key>HIDE_COIN_BUTTON</key>
-    <string>Hide Coin Button</string>
+    <string>إخفاء زر العملة المعدنية</string>
 </dict>
 </plist>
