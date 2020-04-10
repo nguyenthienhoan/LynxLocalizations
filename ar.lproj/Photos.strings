@@ -1,10 +1,10 @@
 <plist version="1.0">
 <dict>
     <key>PHOTOS</key>
-    <string>Photos</string>
+    <string>الصور</string>
     <key>SKIP_DELETION_CONFIRMATION</key>
-    <string>Skip Deletion Confirmation</string>
+    <string>تخطي تأكيد الحذف</string>
     <key>USE_INIFINITE_ZOOM</key>
-    <string>Use Infinite Zoom</string>
+    <string>استخدام تكبير لانهائي</string>
 </dict>
 </plist>
