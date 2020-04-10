@@ -1,34 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AUTO_LAYOUT</key>
-	<string>أجبار التنسيق التلقائي</string>
-	<key>AUTO_LAYOUT_PLACEHOLDER</key>
-	<string>قد يؤدي فرض "التنسيق التلقائي" إلى تقفز الرموز عند فتح الإشعارات</string>
-	<key>DISABLE_HAPTIC_TOUCH</key>
-	<string>تعطيل</string>
-	<key>EXPERIMENTAL</key>
-	<string>إعدادات تجريبية</string>
-	<key>HAPTIC_TOUCH</key>
-	<string>أهتزاز الهابتك</string>
-	<key>HAPTIC_TOUCH_WARNING</key>
-	<string>أنذار أهتزاز الهابتك</string>
-	<key>NOTIFICATION_ICONS</key>
-	<string>أيقونات الأشعارات</string>
-	<key>USE_CIRCLE_ICONS</key>
-	<string>أيقونات مدورة</string>
-	<key>USE_MODERN_STYLE</key>
-	<string>استخدام نمط حديث</string>
-	<key>DISABLE_ON_HOMESCREEN</key>
-	<string>أيقاف في شاشة رئيسية</string>
-	<key>Spotlight</key>
-	<string>sPOTLIGHT بحث</string>
-	<key>ROUND_SCREEN_WARNING</key>
-	<string>تحذير تدوير زوايا الشاشة</string>
-	<key>ROUND_SCREEN_CORNERS</key>
-	<string>تمكين تدوير زوايا</string>
-	<key>Screen</key>
-	<string>شاشة رئيسية وتطبيقات</string>
+    <key>NOTIFICATION_ICONS</key>
+    <string>Notification Icons</string>
+    <key>USE_MODERN_STYLE</key>
+    <string>Use Modern Style</string>
+    <key>AUTO_LAYOUT</key>
+    <string>Force Auto Layout</string>
+    <key>USE_CIRCLE_ICONS</key>
+    <string>Use Circle Icons</string>
+    <key>AUTO_LAYOUT_PLACEHOLDER</key>
+    <string>Forcing 'Auto-Layout' may cause icons to jump when opening notification stacks</string>
+    <key>EXPERIMENTAL</key>
+    <string>Experimental</string>
+    <key>HAPTIC_TOUCH</key>
+    <string>Haptic Touch</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>Disable Haptic Touch</string>
+    <key>ROUND_SCREEN_WARNING</key>
+    <string>Round screen corners only works on non-notched devices</string>
+    <key>ROUND_SCREEN_CORNERS</key>
+    <string>Round Screen Corners</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Disable On Homescreen</string>
 </dict>
 </plist>
