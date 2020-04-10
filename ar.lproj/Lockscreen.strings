@@ -45,7 +45,7 @@
     <key>PASSCODE_SCREEN</key>
     <string>شاشة رمز الدخول</string>
     <key>HIDE_FACE_ID_LOCK</key>
-    <string>إخفاء قفل الـ FaceID</string>
+    <string>إخفاء قفل الـ Face ID</string>
     <key>HIDE_PASSCODE_BACKGROUND</key>
     <string>إخفاء خلفية رمز الدخول</string>
     <key>HIDE_EMERGENCY_BUTTON</key>
