@@ -1,20 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>WIDGETS_VIEW</key>
-    <string>صفحة واجهة رسومية</string>
+    <string>Widgets View</string>
     <key>HIDE_EDIT_BUTTON</key>
-    <string>أخفاء زر تعديل</string>
+    <string>Hide Edit Button</string>
     <key>HIDE_WEATHER_INFO</key>
-    <string>أخفاء معلومات طقس</string>
+    <string>Hide Weather Info Text</string>
     <key>DISABLE_ON_LOCKSCREEN</key>
-    <string>أخفاء من شاشة القفل</string>
+    <string>Disable on Lockscreen</string>
     <key>DISABLE_ON_SPRINGBOARD</key>
-    <string>اخفاء من شاشة رئيسية</string>
+    <string>Disable on SpringBoard</string>
     <key>TODAY_VIEW</key>
-    <string>الصفحة اليومية</string>
+    <string>Today View</string>
     <key>HIDE_NEW_WIDGETS_BUTTON</key>
-    <string>أخفاء زر ويدجيت جديد</string>
+    <string>Hide New Widgets Button</string>
 </dict>
 </plist>
