@@ -1,34 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>DIALER_BUTTONS</key>
-    <string>أرقام الأتصال</string>
+    <string>Dialer Buttons</string>
     <key>HIDE_NUMBER_BUTTON_BACKGROUND</key>
-    <string>أخفاء خلفية الأرقام</string>
+    <string>Hide Number Button Background</string>
     <key>CALLS</key>
-    <string>الأتصال</string>
+    <string>Calls</string>
     <key>SHOW_EXACT_TIME</key>
-    <string>عرص الوقت الصحيح</string>
+    <string>Show Exact Time</string>
     <key>TAB_BAR</key>
-    <string>شريط الخيارات</string>
+    <string>Tab Bar</string>
     <key>HIDE_VOICEMAIL_TAB</key>
-    <string>أخفاء البريد الصوتي</string>
+    <string>Hide Voicemail Tab</string>
     <key>CALL_BUTTON</key>
-    <string>زر الأتصال</string>
+    <string>Call Button</string>
     <key>HIDE_BACKGROUND</key>
-    <string>أخفاء الخلفية</string>
+    <string>Hide Background</string>
     <key>USE_CUSTOM_CALL_BUTTON_COLOR</key>
-    <string>تمكين لون مخصص</string>
+    <string>Use Custom Call Button Color</string>
     <key>TINT_COLOR</key>
-    <string>أختيار لون</string>
+    <string>Tint Color</string>
     <key>EXPERIMENTAL</key>
-    <string>تجريبي</string>
+    <string>Experimental</string>
     <key>USE_LARGE_BUTTON</key>
-    <string>أستخدام زر أتصال كبير</string>
+    <string>Use Large Button</string>
     <key>WARNING_PLACEHOLDER</key>
-    <string>قد يتسبب تمكين زر الاتصال الكبير في حدوث مشكلات في شاشات الاتصال، يرجى تعطيله إذا واجهت أي مشكلة.</string>
+    <string>Enabling large call bar may cause issues in call screens, please disable if you experience any layout issues</string>
     <key>PHONE</key>
-    <string>الهاتف</string>
+    <string>Phone</string>
 </dict>
 </plist>
