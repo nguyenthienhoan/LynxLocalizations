@@ -22,5 +22,7 @@
     <string>App Switcher</string>
     <key>USE_CUSTOM_SCALE</key>
     <string>Use Custom Card Scale</string>
+    <key>SWIPE_DOWN_TO_KILL</key>
+    <string>Swipe Down To Kill</string>
 </dict>
 </plist>

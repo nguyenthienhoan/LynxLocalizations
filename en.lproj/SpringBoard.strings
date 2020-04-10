@@ -152,5 +152,13 @@
     <string>Disable Screenshot Sound</string>
     <key>HIDE_BAR_LOCKSCREEN</key>
     <string>Hide On Lockscreen</string>
+    <key>HIDE_COMPLETELY</key>
+    <string>Hide Completely</string>
+    <key>SELECT_APPS</key>
+    <string>Select Apps</string>
+    <key>ADD_CLEAR_BADGES</key>
+    <string>Add 'Clear' Badge Option</string>
+    <key>HIDE_EXPANDED_WIDGETS</key>
+    <string>Hide Expanded Widgets</string>
 </dict>
 </plist>

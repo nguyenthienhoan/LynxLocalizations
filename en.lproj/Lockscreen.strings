@@ -114,5 +114,15 @@
     <string>Use Smoother Swiping</string>
     <key>HIDE_SWIPE_SEPARATORS</key>
     <string>Hide Swipe Separators</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Hide 'X' Button</string>
+    <key>FACE_ID</key>
+    <string>Face ID</string>
+    <key>STYLE</key>
+    <string>Style</string>
+    <key>ALWAYS_USE_DO_NOT_DISTURB</key>
+    <string>Always use DND dark style</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Hide 'X' Button</string>
 </dict>
 </plist>
