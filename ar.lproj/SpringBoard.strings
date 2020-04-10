@@ -107,9 +107,9 @@
     <key>HIDE_APP_BREADCRUMBS</key>
     <string>إخفاء ألواح التطبيقات</string>
     <key>TAB_BAR_LABELS</key>
-    <string>تسميات الشريط العلوي</string>
+    <string>تسميات شريط التبويبات</string>
     <key>HIDE_TAB_BAR_LABELS</key>
-    <string>إخفاء تسميات الشريط العلوي</string>
+    <string>إخفاء تسميات شريط التبويبات</string>
     <key>HOMESCREEN_WIDGETS</key>
     <string>أدوات الشاشة الرئيسية</string>
     <key>HIDE_ADD_WIDGET_TEXT</key>
