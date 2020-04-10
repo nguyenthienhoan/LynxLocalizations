@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>UPDATES_TAB</key>
-    <string>Arcade عرض قسم التحديثات بدل</string>
+    <string>Updates Tab</string>
     <key>REPLACE_UPDATES</key>
-    <string>تمكين</string>
+    <string>Replace Arcade with Updates</string>
 </dict>
 </plist>
