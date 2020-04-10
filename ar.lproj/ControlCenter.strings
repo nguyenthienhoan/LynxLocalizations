@@ -1,24 +1,24 @@
 <plist version="1.0">
 <dict>
     <key>STATUS_BAR</key>
-    <string>Status Bar</string>
+    <string>شريط الحالة</string>
     <key>HIDE_STATUS_BAR</key>
-    <string>Hide Status Bar</string>
+    <string>إخفاء شريط الحالة</string>
     <key>HIDE_TOGGLE_HINTS</key>
-    <string>Hide Toggle Hints</string>
+    <string>إخفاء تلميحات التبديل</string>
     <key>CONNECTIVITY</key>
-    <string>Connectivity</string>
+    <string>الربط</string>
     <key>HIDE_CONNECTIVITY_SEPARATORS</key>
-    <string>Hide Connectivity Separators</string>
+    <string>إخفاء فواصل الربط</string>
     <key>DISABLE_TOGGLES</key>
-    <string>Actually Disable Toggles</string>
+    <string>تعطيل التبديلات في الواقع</string>
     <key>CONTROL_CENTER</key>
-    <string>Control Center</string>
+    <string>مركز التحكم</string>
     <key>USE_DARK_MODULES</key>
-    <string>Use Dark Modules</string>
+    <string>استخدام وحدات داكنة</string>
     <key>DARK_MODULE_WARNING</key>
-    <string>Dark Modules doesn't work for the Flashlight module</string>
+    <string>الوحدات الداكنة لا تعمل في وحدة المصباح اليدوي</string>
     <key>TOGGLES</key>
-    <string>Toggles</string>
+    <string>التبديلات</string>
 </dict>
 </plist>
