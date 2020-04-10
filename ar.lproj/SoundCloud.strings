@@ -1,8 +1,8 @@
 <plist version="1.0">
 <dict>
     <key>ADVERTISEMENTS</key>
-    <string>Advertisements</string>
+    <string>الإعلانات</string>
     <key>BLOCK_ADVERTISEMENTS</key>
-    <string>Block Advertisements</string>
+    <string>حظر الإعلانات</string>
 </dict>
 </plist>
