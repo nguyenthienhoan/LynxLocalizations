@@ -37,9 +37,9 @@
     <key>EXPERIMENTAL_SECTION</key>
     <string>Eksperymentalne</string>
     <key>THIRD_PARTY_SECTION</key>
-    <string>Apki innych firm</string>
+    <string>Aplikacje firm trzecich</string>
     <key>CONTACT_DEVELOPER</key>
-    <string>Kontakty</string>
+    <string>Twórcy</string>
     <key>SUPPORT_HEADER</key>
     <string>Wsparcie</string>
     <key>REQUEST_FEATURE</key>
@@ -62,5 +62,13 @@
     <string>Czarna lista wtyczek</string>
     <key>DISABLE_IN</key>
     <string>Wyłącz Lynx w aplikacjach</string>
+    <key>OTHER_TWEAKS</key>
+    <string>Inne wtyczki</string>
+    <key>SPECIAL_THANKS</key>
+    <string>Specjalne podziękowania</string>
+    <key>RESET_SETTINGS</key>
+    <string>Przywróć domyślne ustawienia</string>
+    <key>RESET_SETTINGS_WARNING</key>
+    <string>Czy napewno chcesz przywrócić domyślne ustawienia?</string>
 </dict>
 </plist>

@@ -22,5 +22,9 @@
     <string>Przełączanie aplikacji</string>
     <key>USE_CUSTOM_SCALE</key>
     <string>Użyj własnej skali karty</string>
+    <key>SWIPE_TO_KILL</key>
+    <string>Przesuń aby zabić</string>
+    <key>SWIPE_DOWN_TO_KILL</key>
+    <string>Przesuń w dół aby zabić aplikację</string>
 </dict>
 </plist>

@@ -38,5 +38,23 @@
     <string>Użyj własnej nazwy operatora</string>
     <key>ENTER_CUSTOM_CARRIER_TEXT</key>
     <string>Nazwa operatora</string>
+    <key>USE_WIFI_ADDRESS</key>
+    <string>Wyświetl nazwę sieci Wifi zamiast operatora</string>
+    <key>ANIMATIONS</key>
+    <string>Animacje</string>
+    <key>HIDE_CARRIER_TEXT</key>
+    <string>Ukryj nazwę operatora</string>
+    <key>HIDE_LOCATION_ARROW</key>
+    <string>Ukryj ikonę lokalizacji</string>
+    <key>HIDE_ROTATION_LOCK</key>
+    <string>Ukryj ikonę obracania ekranu</string>
+    <key>HIDE_DND_MOON</key>
+    <string>Ukryj ikonę trybu nie przeszkadzać</string>
+    <key>HIDE_ALARM_BELL</key>
+    <string>Ukryj ikonę alarmu</string>
+    <key>HIDE_VPN</key>
+    <string>Ukryj ikonę VPN</string>
+    <key>DISABLE_AIRPLANE_ANIMATION</key>
+    <string>Wyłącz animacje trybu samolotowego</string>
 </dict>
 </plist>
