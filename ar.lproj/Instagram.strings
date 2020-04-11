@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>POSTS</key>
-    <string>إظهار إعجابات البوستات</string>
+    <string>المنشورات</string>
     <key>SHOW_LIKES</key>
-    <string>عرض الإعجابات</string>
+    <string>إظهار الإعجابات</string>
 </dict>
 </plist>

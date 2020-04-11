@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>Homescreen Icons</key>
-    <string>أيقونات الشاشة</string>
-    <key>Hide Icon Labels</key>
-    <string>أخفاء أسماء التطبيقات</string>
+    <key>HOMESCREEN_ICONS</key>
+    <string>أيقونات الشاشة الرئيسية</string>
+    <key>HIDE_ICON_LABELS</key>
+    <string>إخفاء تسميات الأيقونات</string>
 </dict>
 </plist>

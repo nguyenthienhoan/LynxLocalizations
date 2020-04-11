@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>POPUPS</key>
-    <string>ظهور مفاجئ</string>
+    <string>الانبثاق</string>
     <key>BLOCK_RATE_US</key>
-    <string>حظر أشعار التقييم</string>
+    <string>حظر تنبيه 'قيمنا' المنبثق</string>
 </dict>
 </plist>

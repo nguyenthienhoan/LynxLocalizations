@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>PHOTOS</key>
     <string>الصور</string>
     <key>SKIP_DELETION_CONFIRMATION</key>
-    <string>تخطي توثيق الحذف</string>
+    <string>تخطي تأكيد الحذف</string>
     <key>USE_INIFINITE_ZOOM</key>
-    <string>أستخدام تكبير لامحدود</string>
+    <string>استخدام تكبير لانهائي</string>
 </dict>
 </plist>

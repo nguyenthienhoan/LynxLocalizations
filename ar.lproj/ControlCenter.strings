@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>STATUS_BAR</key>
     <string>شريط الحالة</string>
     <key>HIDE_STATUS_BAR</key>
-    <string>أخفاء شريط الحالة</string>
+    <string>إخفاء شريط الحالة</string>
     <key>HIDE_TOGGLE_HINTS</key>
-    <string>أخفاء الوان العناصر</string>
+    <string>إخفاء تلميحات التبديل</string>
     <key>CONNECTIVITY</key>
-    <string>الأتصال</string>
+    <string>الربط</string>
     <key>HIDE_CONNECTIVITY_SEPARATORS</key>
-    <string>إخفاء فواصل الاتصال</string>
+    <string>إخفاء فواصل الربط</string>
     <key>DISABLE_TOGGLES</key>
-    <string>أغلاق تام للعناصر</string>
+    <string>تعطيل التبديلات في الواقع</string>
     <key>CONTROL_CENTER</key>
     <string>مركز التحكم</string>
     <key>USE_DARK_MODULES</key>
-    <string>أستخدم لون داكن</string>
+    <string>استخدام وحدات داكنة</string>
     <key>DARK_MODULE_WARNING</key>
-    <string>أستخدام وضع داكن لايعمل مع المصباح</string>
+    <string>الوحدات الداكنة لا تعمل في وحدة المصباح اليدوي</string>
+    <key>TOGGLES</key>
+    <string>التبديلات</string>
 </dict>
 </plist>
