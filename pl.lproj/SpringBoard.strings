@@ -152,5 +152,11 @@
     <string>Suwak głośności</string>
     <key>HIDE_VOLUME_HUD</key>
     <string>Ukryj suwak głośności</string>
+    <key>SELECT_APPS</key>
+    <string>Wybierz aplikacje</string>
+    <key>ADD_CLEAR_BADGES</key>
+    <string>Dodaj 'czyste' znaczniki</string>
+    <key>HIDE_EXPAMDED_WIDGETS</key>
+    <string>Ukryj rozszerzone widgety</string>
 </dict>
 </plist>

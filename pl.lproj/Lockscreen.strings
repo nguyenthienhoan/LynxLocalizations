@@ -45,7 +45,7 @@
     <key>PASSCODE_SCREEN</key>
     <string>Ekran kodu dostępu</string>
     <key>HIDE_FACE_ID_LOCK</key>
-    <string>Ukryj kłódkę Face ID</string>
+    <string>Ukryj kłódkę odblokowania telefonu</string>
     <key>HIDE_PASSCODE_BACKGROUND</key>
     <string>Ukryj tło ekranu kodu dostępu</string>
     <key>HIDE_EMERGENCY_BUTTON</key>
@@ -116,5 +116,11 @@
     <string>Ukryj seperatory przesuwania</string>
     <key>HIDE_X_BUTTON</key>
     <string>Ukryj przycisk "X"</string>
+    <key>FACE_ID</key>
+    <string>Face ID</string>
+    <key>STYLE</key>
+    <string>Styl</string>
+    <key>ALWAYS_USE_DO_NOT_DISTURB</key>
+    <string>Zawsze używaj czarnego stylu DND</string>
 </dict>
 </plist>
