@@ -28,5 +28,9 @@
     <string>Ustawienia</string>
 	<key>ADD_INFO_BUTTON</key>
 	<string>Dodaj przycisk informacji</string>
-</dict>
+	<key>HIDE_UPDATES_BADGE</key>
+	<string>Ukryj znacznik aktualizacji</string>
+	<key>UPDATES</key>
+	<string>Aktualizacje</string>
+	</dict>
 </plist>

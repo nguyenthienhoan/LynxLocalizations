@@ -156,7 +156,15 @@
     <string>Wybierz aplikacje</string>
     <key>ADD_CLEAR_BADGES</key>
     <string>Dodaj 'czyste' znaczniki</string>
-    <key>HIDE_EXPAMDED_WIDGETS</key>
+    <key>HIDE_EXPANDED_WIDGETS</key>
     <string>Ukryj rozszerzone widgety</string>
+    <key>DRAG_DROP</key>
+    <string>Chwyć i upuść</string>
+    <key>ENABLE_DRAG_DROP</key>
+    <string>Włącz chwytanie i upuszczanie systemowo</string>
+    <key>WALLPAPER</key>
+    <string>Tapeta</string>
+    <key>DISABLE_DARKENING</key>
+    <string>Wyłącz ściemnianie</string>
 </dict>
 </plist>
