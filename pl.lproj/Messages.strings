@@ -16,5 +16,9 @@
     <string>Odcień</string>
     <key>MESSAGES</key>
     <string>Wiadomości</string>
+    <key>SEND_PROGRESS</key>
+    <string>Pasek wysyłania</string>
+    <key>ALWAYS_SHOW_BAR</key>
+    <string>Zawsze pokazuj pasek</string>  
 </dict>
 </plist>

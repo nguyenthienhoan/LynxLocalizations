@@ -56,5 +56,14 @@
     <string>Ukryj ikonę VPN</string>
     <key>DISABLE_AIRPLANE_ANIMATION</key>
     <string>Wyłącz animacje trybu samolotowego</string>
+    <key>STYLE</key>
+    <key>USE_IPHONE_X_STYLE</key>
+    <string>Użyj stylu iPhone X</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>Użyj stylu iPada</string>
+    <key>HIDE_IPAD_STYLE_DATE</key>
+    <string>Ukryj datę w stylu iPada</string>
+    <key>HIDE_SB_LOCK</key>
+    <string>Ukryj ikonę blokady</string>
 </dict>
 </plist>

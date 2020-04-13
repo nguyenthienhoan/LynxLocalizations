@@ -122,5 +122,9 @@
     <string>Styl</string>
     <key>ALWAYS_USE_DO_NOT_DISTURB</key>
     <string>Zawsze używaj czarnego stylu DND</string>
+    <key>ANIMATIONS</key>
+    <string>Animacje</string>
+    <key>DISABLE_WAKE_ANIMATION</key>
+    <string>Wyłącz animacje wybudzania ekranu</string>
 </dict>
 </plist>
