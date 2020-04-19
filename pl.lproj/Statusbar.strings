@@ -65,5 +65,7 @@
     <string>Ukryj datę w stylu iPada</string>
     <key>HIDE_SB_LOCK</key>
     <string>Ukryj ikonę blokady</string>
+    <key>HIDE_BATTERY_BOLT</key>
+    <string>Ukryj ikonę ładowania</string>
 </dict>
 </plist>
