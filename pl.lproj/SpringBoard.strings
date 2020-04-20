@@ -166,5 +166,9 @@
     <string>Tapeta</string>
     <key>DISABLE_DARKENING</key>
     <string>Wyłącz ściemnianie</string>
+    <key>DOUBLE_TAB_LOCK</key>
+    <string>Podwójnie dotknij aby zablokować ekran</string>
+    <key>HIDE_BADGE_TEXT</key>
+    <string>Ukryj tekst plakietki</string>
 </dict>
 </plist>
