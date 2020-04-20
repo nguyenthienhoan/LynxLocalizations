@@ -1,28 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>STYLE</key>
-    <string>النمط</string>
+    <string>نمط العرض</string>
     <key>USE_GRID_SWITCHER</key>
-    <string>استخدام مبدل الشبكة</string>
+    <string>عرض شبكي</string>
     <key>HANDOFF</key>
-    <string>Handoff</string>
+    <string>النسخ المتعدد</string>
     <key>HIDE_APP_SUGGESTIONS</key>
-    <string>إخفاء اقتراحات التطبيقات</string>
+    <string>أخفاء التطبيقات المقترحة</string>
     <key>APP_CARDS</key>
     <string>بطاقات التطبيقات</string>
     <key>HIDE_APP_LABELS</key>
-    <string>إخفاء تسميات التطبيقات</string>
+    <string>أخفاء أسماء التطبيقات</string>
     <key>HIDE_APP_ICONS</key>
-    <string>إخفاء أيقونات التطبيقات</string>
+    <string>أخفاء أيقونات التطبيقات</string>
     <key>NOW_PLAYING</key>
-    <string>ما يجرِ تشغيله</string>
+    <string>الموسيقى</string>
     <key>PREVENT_APP_KILL</key>
-    <string>منع إغلاق التطبيقات التي يجرِ بها تشغيل موسيقى أو صوتيات</string>
+    <string>منع أغلاق الموسيقى</string>
     <key>APP_SWITCHER</key>
     <string>مبدل التطبيقات</string>
-    <key>USE_CUSTOM_SCALE</key>
-    <string>استخدام مقاس بطاقة مخصص</string>
+    <key>Swipe To Kill</key>
+    <string>تمرير للأغلاق جميع تطبيقات</string>
     <key>SWIPE_DOWN_TO_KILL</key>
-    <string>السحب للأسفل للإغلاق</string>
+    <string>تمرير للأسفل لأغلاق التطبيقات</string>
 </dict>
 </plist>

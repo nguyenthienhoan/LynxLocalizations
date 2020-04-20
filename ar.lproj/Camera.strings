@@ -1,18 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>STYLE</key>
-    <string>النمط</string>
+    <key>Style</key>
+    <string>نمط العرض</string>
     <key>USE_IPAD_STYLE</key>
-    <string>استخدام نمط الـ iPad</string>
+    <string>إستخدام نمط أيباد</string>
     <key>PREVIEW</key>
-    <string>المعاينة</string>
+    <string>عرض الصور</string>
     <key>HIDE_RECENT_PREVIEW</key>
-    <string>إخفاء معاينة الصورة الأخيرة</string>
+    <string>أخفاء الصور الملتقطة</string>
     <key>CAMERA</key>
     <string>الكاميرا</string>
     <key>SHUTTER_SOUND</key>
-    <string>صوت الالتقاط</string>
+    <string>صوت التصوير</string>
     <key>DISABLE_SHUTTER_SOUND</key>
-    <string>تعطيل صوت الالتقاط</string>
+    <string>أيقاف صوت</string>
 </dict>
 </plist>

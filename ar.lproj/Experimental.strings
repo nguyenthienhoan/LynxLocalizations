@@ -1,26 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>NOTIFICATION_ICONS</key>
-    <string>أيقونات الإشعارات</string>
-    <key>USE_MODERN_STYLE</key>
-    <string>استخدام نمط عصري</string>
-    <key>AUTO_LAYOUT</key>
-    <string>إجبار التنسيق التلقائي</string>
-    <key>USE_CIRCLE_ICONS</key>
-    <string>استخدام أيقونات دائرية</string>
-    <key>AUTO_LAYOUT_PLACEHOLDER</key>
-    <string>إجبار 'التنسيق التلقائي' قد يتسبب في قفز الأيقونات عند فتح الإشعارات المجمعة</string>
-    <key>EXPERIMENTAL</key>
-    <string>تجريبي</string>
-    <key>HAPTIC_TOUCH</key>
-    <string>الحس اللمسي</string>
-    <key>DISABLE_HAPTIC_TOUCH</key>
-    <string>تعطيل الحس اللمسي</string>
-    <key>ROUND_SCREEN_WARNING</key>
-    <string>تدوير زوايا الشاشة يعمل فقط على الأجهزة التي لا تحتوي على نتوء</string>
-    <key>ROUND_SCREEN_CORNERS</key>
-    <string>تدوير زوايا الشاشة</string>
-    <key>DISABLE_ON_HOMESCREEN</key>
-    <string>تعطيل على الشاشة الرئيسية</string>
+	<key>AUTO_LAYOUT</key>
+	<string>أجبار التنسيق التلقائي</string>
+	<key>AUTO_LAYOUT_PLACEHOLDER</key>
+	<string>قد يؤدي فرض "التنسيق التلقائي" إلى تقفز الرموز عند فتح الإشعارات</string>
+	<key>DISABLE_HAPTIC_TOUCH</key>
+	<string>تعطيل</string>
+	<key>EXPERIMENTAL</key>
+	<string>إعدادات تجريبية</string>
+	<key>HAPTIC_TOUCH</key>
+	<string>أهتزاز الهابتك</string>
+	<key>HAPTIC_TOUCH_WARNING</key>
+	<string>أنذار أهتزاز الهابتك</string>
+	<key>NOTIFICATION_ICONS</key>
+	<string>أيقونات الأشعارات</string>
+	<key>USE_CIRCLE_ICONS</key>
+	<string>أيقونات مدورة</string>
+	<key>USE_MODERN_STYLE</key>
+	<string>استخدام نمط حديث</string>
+	<key>DISABLE_ON_HOMESCREEN</key>
+	<string>أيقاف في شاشة رئيسية</string>
+	<key>Icon Shape</key>
+	<string>تنسيق شكل أيقونات</string>
+	<key>ROUND_SCREEN_WARNING</key>
+	<string>تحذير تدوير زوايا الشاشة</string>
+	<key>ROUND_SCREEN_CORNERS</key>
+	<string>تمكين تدوير زوايا</string>
+	<key>Screen</key>
+	<string>شاشة رئيسية وتطبيقات</string>
+	<key>Use Custom Corner Radius</key>
+	<string>أستخدام زوايا مخصصة</string>
+	<key>Photos</key>
+	<string>الصور</string>
+	<key>Enable Debug Info</key>
+	<string>إصلاح معلومات صور</string>
 </dict>
 </plist>

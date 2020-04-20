@@ -1,12 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>TAB_OVERVIEW</key>
-    <string>لمحة علامة التبويب</string>
-    <key>USE_TAB_OVERVIEW</key>
-    <string>استخدام لمحة علامة التبويب</string>
-    <key>DISCLAIMER_PLACEHOLDER</key>
-    <string>التأثيرات الحركية قد تكون شائبة للغابة في أجهزة الـ iPhone عند تحديد 'استخدام لمحة علامة التبويب' حيث أن الميزة مخصصة لأجهزة الـ iPad فقط</string>
-    <key>ENABLE_BACKGROUND_PLAYBACK</key>
-    <string>تفعيل التشغيل في الخلفية</string>
+	<key>BACKGROUND_PLAYBACK</key>
+	<string>تشغيل صوت في خلفية</string>
+	<key>DISCLAIMER_PLACEHOLDER</key>
+	<string>أفتراضياً هذا الخيار مخصص للأيباد قد تواجه يعض المشاكل مع الأيفون عند أستخدامه.</string>
+	<key>ENABLE_BACKGROUND_PLAYBACK</key>
+	<string>تمكين تشغيل</string>
+	<key>TAB_OVERVIEW</key>
+	<string>جلب نمط أيباد للأيفون</string>
+	<key>USE_TAB_OVERVIEW</key>
+	<string>عرض صفحات</string>
+	<key>PRIVATE_MODE</key>
+	<string>وضع تصفح مخفي</string>
+	<key>HIDE_BANNER</key>
+	<string>إخفاء البار</string>
+	<key>URL_BAR</key>
+	<string>شريط العناوين</string>
+	<key>HIDE_BACKGROUND</key>
+	<string>إخفاء خلفية</string>
 </dict>
 </plist>
