@@ -1,0 +1,24 @@
+<plist version = "1.0">
+ <dict>
+     <key> STATUS_BAR </ key>
+     <string>ステータスバー</ string>
+     <key> HIDE_STATUS_BAR </ key>
+     <string>ステータスバーを非表示にする</ string>
+     <key> HIDE_TOGGLE_HINTS </ key>
+     <string>トグルヒントを非表示にする</ string>
+     <key> CONNECTIVITY</ key>
+     <string>接続性</ string>
+     <key> HIDE_CONNECTIVITY_SEPARATORS </ key>
+     <string>接続セパレーターを非表示</ string>
+     <key> DISABLE_TOGGLES </ key>
+     <string>実際にトグルを無効にする</ string>
+     <key> CONTROL_CENTER </ key>
+     <string>コントロールセンター</ string>
+     <key> USE_DARK_MODULES </ key>
+     <string>ダークモジュールを使用</ string>
+     <key> DARK_MODULE_WARNING </ key>
+     <string>ダークモジュールは懐中電灯モジュールでは機能しません</ string>
+     <key>トグル</ key>
+     <string>トグル</ string>
+ </ dict>
+ </ plist>

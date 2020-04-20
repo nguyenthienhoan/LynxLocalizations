@@ -1,0 +1,38 @@
+<plist version = "1.0">
+ <dict>
+ <key> APPLE_ID </ key>
+ <string> Apple ID </ string>
+ <key> USE_CUSTOM_FIRST_NAME </ key>
+ <string>カスタム名を使用</ string>
+ <key> FIRST_NAME </ key>
+ <string>名</ string>
+ <key> USE_CUSTOM_LAST_NAME </ key>
+ <string>カスタムの姓を使用</ string>
+ <key> LAST_NAME </ key>
+ <string>姓</ string>
+ <key>CELLS</ key>
+ <string>セル</ string>
+ <key> HIDE_THIRD_PARTY_APPS </ key>
+ <string>サードパーティアプリを非表示にする</ string>
+ <key> HIDE_CELL_ICONS </ key>
+ <string>セルアイコンを非表示</ string>
+ <key> HIDE_CHEVRONS </ key>
+ <string>シェブロンを隠す</ string>
+ <key> NETWORK </ key>
+ <string>ネットワーク</ string>
+ <key> SHOW_IP_ADDRESS </ key>
+ <string> IPアドレスを表示</ string>
+ <key> SHOW_ETHERNET_SECTION </ key>
+ <string>イーサネットセクションを表示</ string>
+ <key>OTHER</ key>
+ <string>その他</ string>
+ <key> ADD_INFO_BUTTON </ key>
+ <string>情報ボタンを追加</ string>
+ <key> SETTINGS </ key>
+ <string>設定</ string>
+ <key> UPDATES</ key>
+ <string>更新</ string>
+ <key> HIDE_UPDATES_BADGE </ key>
+ <string>更新バッジを非表示</ string>
+ </ dict>
+ </ plist>

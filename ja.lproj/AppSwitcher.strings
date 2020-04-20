@@ -1,0 +1,28 @@
+<plist version = "1.0">
+ <dict>
+     <key> STYLE </ key>
+     <string>スタイル</ string>
+     <key> USE_GRID_SWITCHER </ key>
+     <string>グリッドスイッチャーを使用</ string>
+     <key>ハンドオフ</ key>
+     <string>ハンドオフ</ string>
+     <key> HIDE_APP_SUGGESTIONS </ key>
+     <string>アプリの候補を非表示</ string>
+     <key> APP_CARDS </ key>
+     <string>アプリカード</ string>
+     <key> HIDE_APP_LABELS </ key>
+     <string>アプリラベルを非表示</ string>
+     <key> HIDE_APP_ICONS </ key>
+     <string>アプリアイコンを非表示にする</ string>
+     <key> NOW_PLAYING </ key>
+     <string> Now Playing </ string>
+     <key> PREVENT_APP_KILL </ key>
+     <string>再生中のアプリの強制終了を防止</ string>
+     <key> APP_SWITCHER </ key>
+     <string>アプリスイッチャー</ string>
+     <key> USE_CUSTOM_SCALE </ key>
+     <string>カスタムカードスケールを使用</ string>
+     <key> SWIPE_DOWN_TO_KILL </ key>
+     <string>下にスワイプして殺す</ string>
+ </ dict>
+ </ plist>

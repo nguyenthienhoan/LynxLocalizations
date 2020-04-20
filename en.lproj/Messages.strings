@@ -16,5 +16,9 @@
     <string>Tint Color</string>
     <key>MESSAGES</key>
     <string>Messages</string>
+    <key>SEND_PROGRESS</key>
+    <string>Send Progress</string>
+    <key>ALWAYS_SHOW_BAR</key>
+    <string>Always Show Progress Bar</string>
 </dict>
 </plist>

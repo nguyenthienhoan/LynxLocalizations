@@ -1,0 +1,10 @@
+<plist version = "1.0">
+ <dict>
+     <key> PHOTOS </ key>
+     <string>写真</ string>
+     <key> SKIP_DELETION_CONFIRMATION </ key>
+     <string>削除削除の確認</ string>
+     <key> USE_INIFINITE_ZOOM </ key>
+     <string>無限ズームを使用</ string>
+ </ dict>
+ </ plist>

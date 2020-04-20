@@ -1,0 +1,76 @@
+<plist version = "1.0">
+ <dict>
+     <key> MAIN_TWEAK_SETTINGS </ key>
+     <string>メインツイーク設定</ string>
+     <key> ENABLE_TWEAK </ key>
+     <string>微調整を有効にする</ string>
+     <key> SECTIONS </ key>
+     <string>セクション</ string>
+     <key> SYSTEM_WIDE </ key>
+     <string>システム全体</ string>
+     <key> LOCKSCREEN </ key>
+     <string>ロック画面</ string>
+     <key> APP_SWITCHER </ key>
+     <string>アプリスイッチャー</ string>
+     <key> STATUS_BAR </ key>
+     <string>ステータスバー</ string>
+     <key> CONTROL_CENTER </ key>
+     <string>コントロールセンター</ string>
+     <key> WIDGETS_VIEW </ key>
+     <string>今日のビュー</ string>
+     <key> MESSAGES_SECTION </ key>
+     <string>メッセージ</ string>
+     <key> SETTINGS_SECTION </ key>
+     <string>設定</ string>
+     <key> PHOTOS_SECTION </ key>
+     <string>写真</ string>
+     <key> SAFARI_SECTION </ key>
+     <string> Safari </ string>
+     <key> APP_STORE_SECTION </ key>
+     <string> App Store </ string>
+     <key> CAMERA_SECTION </ key>
+     <string>カメラ</ string>
+     <key> PHONE_SECTION </ key>
+     <string>電話</ string>
+     <key> OTHER_HEADER </ key>
+     <string>その他</ string>
+     <key> EXPERIMENTAL_SECTION </ key>
+     <string>実験的</ string>
+     <key> THIRD_PARTY_SECTION </ key>
+     <string>サードパーティアプリ</ string>
+     <key> CONTACT_DEVELOPER </ key>
+     <string>連絡先</ string>
+     <key> SUPPORT_HEADER </ key>
+     <string>サポート</ string>
+     <key> REQUEST_FEATURE </ key>
+     <string>機能をリクエスト</ string>
+     <key> REPORT_BUG </ key>
+     <string>バグを報告</ string>
+     <key> TWEAK_GRAPHICS </ key>
+     <string>グラフィックの調整</ string>
+     <key> TRANSLATIONS </ key>
+     <string>翻訳</ string>
+     <key> CONTRIBUTORS </ key>
+     <string>寄稿者</ string>
+     <key> TROUBLESHOOTING </ key>
+     <string>トラブルシューティング</ string>
+     <key> CHECK_OUT_SATINE </ key>
+     <string>サティネをチェック</ string>
+     <key> APPLY_BUTTON </ key>
+     <string>適用</ string>
+     <key> TWEAK_BLACKLIST </ key>
+     <string>ブラックリストの調整</ string>
+     <key> DISABLE_IN </ key>
+     <string>アプリケーションでLynxを無効にする</ string>
+     <key> OTHER_TWEAKS </ key>
+     <string>その他のプロジェクト</ string>
+     <key> TRANSLATORS </ key>
+     <string>翻訳者</ string>
+     <key> SPECIAL_THANKS </ key>
+     <string>特別な感謝</ string>
+     <key> RESET_SETTINGS </ key>
+     <string>設定をリセット</ string>
+     <key> RESET_SETTINGS_WARNING </ key>
+     <string>設定をリセットしてもよろしいですか？</ string>
+ </ dict>
+ </ plist>

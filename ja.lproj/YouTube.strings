@@ -1,0 +1,13 @@
+<plist version = "1.0">
+ <dict>
+     <key>PLAYBACK</ key>
+     <string>再生</ string>
+     <key> ALLOW_BACKGROUND_PLAYBACK </ key>
+     <string>バックグラウンド再生を許可</ string>
+     <key> BLOCK_ADS </ key>
+     <string>ブロック広告</ string>
+     <key> TAB_BAR </ key>
+     <string>タブバー</ string>
+     <key> HIDE_LABELS </ key>
+     <string>ラベルを非表示</ string>
+ </ dict>

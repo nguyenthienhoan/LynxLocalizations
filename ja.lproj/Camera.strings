@@ -1,0 +1,18 @@
+<plist version = "1.0">
+ <dict>
+     <key> STYLE </ key>
+     <string>スタイル</ string>
+     <key> USE_IPAD_STYLE </ key>
+     <string> iPadスタイルを使用</ string>
+     <key> PREVIEW </ key>
+     <string>プレビュー</ string>
+     <key> HIDE_RECENT_PREVIEW </ key>
+     <string>最近の画像プレビューを非表示にする</ string>
+     <key> CAMERA </ key>
+     <string>カメラ</ string>
+     <key> SHUTTER_SOUND </ key>
+     <string>シャッター音</ string>
+     <key> DISABLE_SHUTTER_SOUND </ key>
+     <string>シャッターサウンドを無効にする</ string>
+ </ dict>
+ </ plist> 

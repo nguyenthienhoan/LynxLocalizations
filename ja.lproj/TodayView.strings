@@ -1,0 +1,18 @@
+<plist version = "1.0">
+ <dict>
+     <key> WIDGETS_VIEW </ key>
+     <string>ウィジェットビュー</ string>
+     <key> HIDE_EDIT_BUTTON </ key>
+     <string>編集ボタンを非表示</ string>
+     <key> HIDE_WEATHER_INFO </ key>
+     <string>天気情報テキストを非表示</ string>
+     <key> DISABLE_ON_LOCKSCREEN </ key>
+     <string>ロック画面で無効にする</ string>
+     <key> DISABLE_ON_SPRINGBOARD </ key>
+     <string> SpringBoardで無効にする</ string>
+     <key> TODAY_VIEW </ key>
+     <string>今日のビュー</ string>
+     <key> HIDE_NEW_WIDGETS_BUTTON </ key>
+     <string>新しいウィジェットボタンを非表示にする</ string>
+ </ dict>
+ </ plist>

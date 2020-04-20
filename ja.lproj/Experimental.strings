@@ -1,0 +1,26 @@
+<plist version = "1.0">
+ <dict>
+     <key> NOTIFICATION_ICONS </ key>
+     <string>通知アイコン</ string>
+     <key> USE_MODERN_STYLE </ key>
+     <string>モダンスタイルを使用</ string>
+     <key> AUTO_LAYOUT </ key>
+     <string>自動レイアウトを強制</ string>
+     <key> USE_CIRCLE_ICONS </ key>
+     <string>サークルアイコンを使用</ string>
+     <key> AUTO_LAYOUT_PLACEHOLDER </ key>
+     <string>「自動レイアウト」を強制すると、通知スタックを開くときにアイコンがジャンプする場合があります</ string>
+     <key> EXPERIMENTAL </ key>
+     <string>実験的</ string>
+     <key> HAPTIC_TOUCH </ key>
+     <string>触覚タッチ</ string>
+     <key> DISABLE_HAPTIC_TOUCH </ key>
+     <string>触覚タッチを無効にする</ string>
+     <key> ROUND_SCREEN_WARNING </ key>
+     <string>ラウンドスクリーンコーナーはノッチのないデバイスでのみ機能します</ string>
+     <key> ROUND_SCREEN_CORNERS </ key>
+     <string>ラウンドスクリーンコーナー</ string>
+     <key> DISABLE_ON_HOMESCREEN </ key>
+     <string>ホームスクリーンで無効にする</ string>
+ </ dict>
+ </plist>

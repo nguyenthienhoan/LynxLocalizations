@@ -8,5 +8,15 @@
     <string>Animations may be buggy on iPhone when selecting 'Use Tab Overview' as it's intended for iPads only</string>
     <key>ENABLE_BACKGROUND_PLAYBACK</key>
     <string>Enable Background Playback</string>
+    <key>BACKGROUND_PLAYBACK</key>
+    <string>Background Playback</string>
+    <key>URL_BAR</key>
+    <string>URL Bar</string>
+    <key>HIDE_BACKGROUND</key>
+    <string>Hide Background</string>
+    <key>PRIVATE_MODE</key>
+    <string>Private Mode</string>
+    <key>HIDE_BANNER</key>
+    <string>Hide Private Mode Banner</string>
 </dict>
 </plist>

@@ -58,7 +58,17 @@
     <string>Hide VPN</string>
     <key>DISABLE_AIRPLANE_ANIMATION</key>
     <string>Disable Airplane Animation</string>
-    <key></key>
-    <string></string>
+    <key>HIDE_SB_LOCK</key>
+    <string>Hide on Home and Lock screens</string>
+    <key>USE_IPHONE_X_STYLE</key>
+    <string>Use iPhone X Style</string>
+    <key>STYLE</key>
+    <string>Style</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>Use iPad Style</string>
+    <key>HIDE_IPAD_STYLE_DATE</key>
+    <string>Hide iPad Style Date</string>
+    <key>HIDE_BATTERY_BOLT</key>
+    <string>Hide Battery Bolt</string>
 </dict>
 </plist>

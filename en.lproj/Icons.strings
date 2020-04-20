@@ -178,7 +178,5 @@
     <string>Use Custom Scale</string>
     <key>SCALE_WARNING</key>
     <string>Scale is from 100% to 200%</string>
-    <key>DOUBLE_TAP_LOCK</key>
-    <string>Double Tap to Lock</string>
 </dict>
 </plist>

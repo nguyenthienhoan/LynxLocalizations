@@ -124,5 +124,9 @@
     <string>Always use DND dark style</string>
     <key>HIDE_X_BUTTON</key>
     <string>Hide 'X' Button</string>
+    <key>ANIMATIONS</key>
+    <string>Animations</string>
+    <key>DISABLE_WAKE_ANIMATION</key>
+    <string>Disable Wake Animation</string>
 </dict>
 </plist>

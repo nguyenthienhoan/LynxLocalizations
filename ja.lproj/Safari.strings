@@ -1,0 +1,12 @@
+<plist version = "1.0">
+ <dict>
+     <key> TAB_OVERVIEW </ key>
+     <string>タブの概要</ string>
+     <key> USE_TAB_OVERVIEW </ key>
+     <string>タブの概要を使用</ string>
+     <key> DISCLAIMER_PLACEHOLDER </ key>
+     <string>「タブの概要を使用」を選択すると、iPadのみを対象とするため、iPhoneのアニメーションにバグがある可能性があります</ string>
+     <key> ENABLE_BACKGROUND_PLAYBACK </ key>
+     <string>バックグラウンド再生を有効にする</ string>
+ </ dict>
+ </ plist>
