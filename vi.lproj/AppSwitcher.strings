@@ -1,0 +1,28 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>Kiểu</string>
+    <key>USE_GRID_SWITCHER</key>
+    <string>Lưới</string>
+    <key>HANDOFF</key>
+    <string>Handoff</string>
+    <key>HIDE_APP_SUGGESTIONS</key>
+    <string>Ẩn ứng dụng gợi ý</string>
+    <key>APP_CARDS</key>
+    <string>Thẻ ứng dụng</string>
+    <key>HIDE_APP_LABELS</key>
+    <string>Ẩn tên thẻ</string>
+    <key>HIDE_APP_ICONS</key>
+    <string>Ẩn biểu tượng thẻ</string>
+    <key>NOW_PLAYING</key>
+    <string>Phát nhạc</string>
+    <key>PREVENT_APP_KILL</key>
+    <string>Ngăn đóng ứng dụng đang phát</string>
+    <key>APP_SWITCHER</key>
+    <string>Chuyển đổi ứng dụng</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Tùy chỉnh tỷ lệ thẻ</string>
+    <key>SWIPE_DOWN_TO_KILL</key>
+    <string>Trượt xuống để đóng</string>
+</dict>
+</plist>

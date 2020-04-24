@@ -1,0 +1,24 @@
+<plist version="1.0">
+<dict>
+    <key>CONTACT_PHOTOS</key>
+    <string>Ảnh liên hệ</string>
+    <key>HIDE_SHARE_PHOTO_BANNER</key>
+    <string>Ẩn chia sẻ liên hệ</string>
+    <key>APP_STRIP</key>
+    <string>Dải ứng dụng</string>
+    <key>HIDE_MESSAGE_APPS</key>
+    <string>Ẩn ứng dụng iMessage</string>
+    <key>MESSAGE_BUBBLES</key>
+    <string>Bong bóng</string>
+    <key>USE_CUSTOM_BUBBLE_COLOR</key>
+    <string>Màu tùy chỉnh</string>
+    <key>TINT_COLOR</key>
+    <string>Màu sắc</string>
+    <key>MESSAGES</key>
+    <string>Tin nhắn</string>
+    <key>SEND_PROGRESS</key>
+    <string>Tiến trình gửi đi</string>
+    <key>ALWAYS_SHOW_BAR</key>
+    <string>Luôn hiện thanh tiến trình</string>
+</dict>
+</plist>

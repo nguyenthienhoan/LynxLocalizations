@@ -1,0 +1,18 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>Kiểu</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>Kiểu iPad</string>
+    <key>PREVIEW</key>
+    <string>Xem trước</string>
+    <key>HIDE_RECENT_PREVIEW</key>
+    <string>Ẩn ảnh chụp gần đây</string>
+    <key>CAMERA</key>
+    <string>Camera</string>
+    <key>SHUTTER_SOUND</key>
+    <string>Âm thanh chụp</string>
+    <key>DISABLE_SHUTTER_SOUND</key>
+    <string>Loại bỏ âm thanh chụp</string>
+</dict>
+</plist>

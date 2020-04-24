@@ -1,0 +1,132 @@
+<plist version="1.0">
+<dict>
+    <key>CLOCK</key>
+    <string>Đồng hồ</string>
+    <key>HIDE_TIME_LABEL</key>
+    <string>Ẩn thời gian</string>
+    <key>HIDE_DATE_LABEL</key>
+    <string>Ẩn ngày</string>
+    <key>CLOCK_FONT_STYLE</key>
+    <string>Kiểu đồng hồ</string>
+    <key>CLOCK_FONT_WEIGHT</key>
+    <string>Kích cỡ đồng hồ</string>
+    <key>DEFAULT_FONT</key>
+    <string>Mặc định</string>
+    <key>BOLD_FONT</key>
+    <string>Đậm</string>
+    <key>ITALIC_FONT</key>
+    <string>Nghiêng</string>
+    <key>MEDIUM_FONT</key>
+    <string>Trung bình</string>
+    <key>CONTROL_CENTER_GRABBER</key>
+    <string>Trung tâm điều khiển</string>
+    <key>HIDE_CONTROL_CENTER_GRABBER</key>
+    <string>Ẩn ngăn kéo trung tâm điều khiển</string>
+    <key>CHARGING_VIEW</key>
+    <string>Sạc</string>
+    <key>HIDE_BATTERY_VIEW</key>
+    <string>Ẩn xem pin</string>
+    <key>PAGE_DOTS</key>
+    <string>Chấm trang</string>
+    <key>HIDE_PAGE_DOTS</key>
+    <string>Ẩn chấm trang</string>
+    <key>NOTIFICATIONS</key>
+    <string>Thông báo</string>
+    <key>HIDE_APP_NAMES</key>
+    <string>Ẩn tên ứng dụng</string>
+    <key>HIDE_TIME_LABELS</key>
+    <string>Ẩn thời gian</string>
+    <key>HIDE_NOTIFICATION_CENTER_TEXT</key>
+    <string>Ẩn 'Trung tâm thông báo'</string>
+    <key>SET_NOTIFICATION_CENTER_TEXT</key>
+    <string>Tùy chỉnh văn bản 'Trung tâm thông báo'</string>
+    <key>NOTIFICATION_CENTER_PLACEHOLDER</key>
+    <string>Trung tâm thông báo</string>
+    <key>PASSCODE_SCREEN</key>
+    <string>Màn hình mật mã</string>
+    <key>HIDE_FACE_ID_LOCK</key>
+    <string>Ẩn FaceID</string>
+    <key>HIDE_PASSCODE_BACKGROUND</key>
+    <string>Ẩn nền mật mã</string>
+    <key>HIDE_EMERGENCY_BUTTON</key>
+    <string>Ẩn phím khẩn cấp</string>
+    <key>HIDE_CANCEL_BUTTON</key>
+    <string>Ẩn phím hủy</string>
+    <key>HIDE_BACKSPACE_BUTTON</key>
+    <string>Ẩn phím xóa</string>
+    <key>HIDE_ENTER_PASSCODE_TEXT</key>
+    <string>Ẩn 'Nhập mật khẩu'</string>
+    <key>USE_CUSTOM_PASSCODE_TEXT</key>
+    <string>Tùy chỉnh văn bản 'Nhập mật khẩu'</string>
+    <key>ENTER_PASSCODE_PLACEHOLDER</key>
+    <string>Nhập văn bản</string>
+    <key>QUICK_ACTION_BUTTONS</key>
+    <string>Phím nhanh</string>
+    <key>HIDE_BOTH</key>
+    <string>Ẩn cả hai</string>
+    <key>HIDE_TORCH_BUTTON</key>
+    <string>Ẩn phím đèn pin</string>
+    <key>HIDE_CAMERA_BUTTON</key>
+    <string>Ẩn phím camera</string>
+    <key>UNLOCK_TEXT</key>
+    <string>Mở khóa</string>
+    <key>HIDE_SWIPE_PRESS</key>
+    <string>Ẩn Vuốt lên/Nhấn để mở khóa</string>
+    <key>HIDE_TOP_SWIPE_TEXT</key>
+    <string>Ẩn 'Vuốt' ở trên</string>
+    <key>OLDER_NOTIFICATIONS</key>
+    <string>Thông báo cũ</string>
+    <key>HIDE_NO_OLDER_NOTIFICATIONS</key>
+    <string>Ẩn 'Không có thông báo cũ'</string>
+    <key>CAMERA</key>
+    <string>Camera</string>
+    <key>DISABLE_CAMERA_SWIPE</key>
+    <string>Loại bỏ vuốt mở camera</string>
+    <key>FORCE_ENABLE_CAMERA</key>
+    <string>Buộc mở camera</string>
+    <key>FORCE_CAMERA_STRING</key>
+    <string>Bật 'Buộc mở camera' chỉ làm việc khi loại bỏ vuốt mở camera</string>
+    <key>MEDIA_CONTROLS</key>
+    <string>Điều khiển phương tiện</string>
+    <key>HIDE_MEDIA_PLAYER</key>
+    <string>Ẩn điều khiển phương tiện</string>
+    <key>LOCKSCREEN</key>
+    <string>Màn hình khóa</string>
+    <key>USE_HAPTIC_FEEDBACK</key>
+    <string>Bật phản hồi Haptic</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>Không làm phiền</string>
+    <key>HIDE_BANNER</key>
+    <string>Ẩn thông báo</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>Chiều cao thông báo</string>
+    <key>USE_CUSTOM_FONT_WEIGHT</key>
+    <string>Kích cỡ tùy chỉnh</string>
+    <key>USE_CUSTOM_SWIPE_TEXT</key>
+    <string>Văn bản mở khóa tùy chỉnh</string>
+    <key>CUSTOM_TEXT</key>
+    <string>Văn bản</string>
+    <key>SHOW_IMMEDIATELY</key>
+    <string>Hiện ngay lập tức</string>
+    <key>DISPLAY_IMMEDIATELY</key>
+    <string>Luôn hiện thông báo cũ</string>
+    <key>USE_SMOOTHER_SWIPING</key>
+    <string>Bật vuốt mượt</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>Ẩn vuốt dải ngăn cách</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Ẩn phím 'X'</string>
+    <key>FACE_ID</key>
+    <string>Face ID</string>
+    <key>STYLE</key>
+    <string>Kiểu</string>
+    <key>ALWAYS_USE_DO_NOT_DISTURB</key>
+    <string>Luôn sử dụng nền tối không làm phiền</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Ẩn phím 'X'</string>
+    <key>ANIMATIONS</key>
+    <string>Hoạt ảnh</string>
+    <key>DISABLE_WAKE_ANIMATION</key>
+    <string>Loại bỏ hoạt ảnh đánh thức</string>
+</dict>
+</plist>

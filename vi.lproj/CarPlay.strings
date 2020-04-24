@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>HOMESCREEN_ICONS</key>
+    <string>Biểu tượng màn hình chính</string>
+    <key>HIDE_ICON_LABELS</key>
+    <string>Ẩn nhãn biểu tượng</string>
+</dict>
+</plist>

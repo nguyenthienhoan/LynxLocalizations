@@ -1,0 +1,18 @@
+<plist version="1.0">
+<dict>
+    <key>WIDGETS_VIEW</key>
+    <string>Tiện ích</string>
+    <key>HIDE_EDIT_BUTTON</key>
+    <string>Ẩn sửa</string>
+    <key>HIDE_WEATHER_INFO</key>
+    <string>Ẩn thông tin thời tiết</string>
+    <key>DISABLE_ON_LOCKSCREEN</key>
+    <string>Loại bỏ trong màn hình khóa</string>
+    <key>DISABLE_ON_SPRINGBOARD</key>
+    <string>Loại bỏ trong màn hình chính</string>
+    <key>TODAY_VIEW</key>
+    <string>Hôm nay</string>
+    <key>HIDE_NEW_WIDGETS_BUTTON</key>
+    <string>Ẩn có tiện ích mới</string>
+</dict>
+</plist>

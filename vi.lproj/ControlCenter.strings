@@ -1,0 +1,24 @@
+<plist version="1.0">
+<dict>
+    <key>STATUS_BAR</key>
+    <string>Thanh trạng thái</string>
+    <key>HIDE_STATUS_BAR</key>
+    <string>Ẩn thanh trạng thái</string>
+    <key>HIDE_TOGGLE_HINTS</key>
+    <string>Ẩn gợi ý</string>
+    <key>CONNECTIVITY</key>
+    <string>Kết nối</string>
+    <key>HIDE_CONNECTIVITY_SEPARATORS</key>
+    <string>Ẩn dải ngăn cách</string>
+    <key>DISABLE_TOGGLES</key>
+    <string>Công tắt thực</string>
+    <key>CONTROL_CENTER</key>
+    <string>Trung tâm điều khiển</string>
+    <key>USE_DARK_MODULES</key>
+    <string>Công tắt tối</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>Công tắt tối không hoạt động với Đèn pin</string>
+    <key>TOGGLES</key>
+    <string>Công tắt</string>
+</dict>
+</plist>

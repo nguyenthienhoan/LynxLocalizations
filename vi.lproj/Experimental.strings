@@ -1,0 +1,26 @@
+<plist version="1.0">
+<dict>
+    <key>NOTIFICATION_ICONS</key>
+    <string>Biểu tượng thông báo</string>
+    <key>USE_MODERN_STYLE</key>
+    <string>Kiểu điện đại</string>
+    <key>AUTO_LAYOUT</key>
+    <string>Buộc tự động bố trí</string>
+    <key>USE_CIRCLE_ICONS</key>
+    <string>Biểu tượng tròn</string>
+    <key>AUTO_LAYOUT_PLACEHOLDER</key>
+    <string>Buộc 'Tự động bố trí' có thể làm biểu tượng nhảy lên khi mở thông báo</string>
+    <key>EXPERIMENTAL</key>
+    <string>Thử nghiệm</string>
+    <key>HAPTIC_TOUCH</key>
+    <string>Haptic Touch</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>Loại bỏ Haptic Touch</string>
+    <key>ROUND_SCREEN_WARNING</key>
+    <string>Bo tròn góc màn hình chỉ hoạt động với iPhone 8 và cũ hơn</string>
+    <key>ROUND_SCREEN_CORNERS</key>
+    <string>Bo tròn góc màn hình</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Loại bỏ màn hình chính</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<plist version="1.0">
+<dict>
+    <key>PHOTOS</key>
+    <string>Ảnh</string>
+    <key>SKIP_DELETION_CONFIRMATION</key>
+    <string>Loại bỏ xác nhận xóa</string>
+    <key>USE_INIFINITE_ZOOM</key>
+    <string>Thu phóng không giới hạn</string>
+</dict>
+</plist>

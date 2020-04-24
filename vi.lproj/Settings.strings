@@ -1,0 +1,38 @@
+<plist version="1.0">
+<dict>
+	<key>APPLE_ID</key>
+	<string>Apple ID</string>
+	<key>USE_CUSTOM_FIRST_NAME</key>
+	<string>Họ tùy chỉnh</string>
+	<key>FIRST_NAME</key>
+	<string>Họ</string>
+	<key>USE_CUSTOM_LAST_NAME</key>
+	<string>Tên tùy chỉnh</string>
+	<key>LAST_NAME</key>
+	<string>Tên</string>
+	<key>CELLS</key>
+	<string>Biểu tượng</string>
+	<key>HIDE_THIRD_PARTY_APPS</key>
+	<string>Ẩn ứng dụng bên thứ 3</string>
+	<key>HIDE_CELL_ICONS</key>
+	<string>Ẩn biểu tượng nhỏ</string>
+	<key>HIDE_CHEVRONS</key>
+	<string>Ẩn Chevrons</string>
+	<key>NETWORK</key>
+	<string>Mạng</string>
+	<key>SHOW_IP_ADDRESS</key>
+	<string>Hiện địa chỉ IP</string>
+	<key>SHOW_ETHERNET_SECTION</key>
+	<string>Hiện mục Ethernet</string>
+	<key>OTHER</key>
+	<string>Khác</string>
+	<key>ADD_INFO_BUTTON</key>
+	<string>Thêm phím thông tin</string>
+	<key>SETTINGS</key>
+	<string>Cài đặt</string>
+	<key>UPDATES</key>
+	<string>Cập nhật</string>
+	<key>HIDE_UPDATES_BADGE</key>
+	<string>Ẩn huy hiệu cập nhật</string>
+</dict>
+</plist>

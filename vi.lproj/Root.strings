@@ -1,0 +1,76 @@
+<plist version="1.0">
+<dict>
+    <key>MAIN_TWEAK_SETTINGS</key>
+    <string>Tinh chỉnh chính</string>
+    <key>ENABLE_TWEAK</key>
+    <string>Kích hoạt tinh chỉnh</string>
+    <key>SECTIONS</key>
+    <string>Thành phần</string>
+    <key>SYSTEM_WIDE</key>
+    <string>Hệ thống</string>
+    <key>LOCKSCREEN</key>
+    <string>Màn hình khóa</string>
+    <key>APP_SWITCHER</key>
+    <string>Chuyển đổi ứng dụng</string>
+    <key>STATUS_BAR</key>
+    <string>Thanh trạng thái</string>
+    <key>CONTROL_CENTER</key>
+    <string>Trung tâm điều khiển</string>
+    <key>WIDGETS_VIEW</key>
+    <string>Hôm nay</string>
+    <key>MESSAGES_SECTION</key>
+    <string>Tin nhắn</string>
+    <key>SETTINGS_SECTION</key>
+    <string>Cài đặt</string>
+    <key>PHOTOS_SECTION</key>
+    <string>Ảnh</string>
+    <key>SAFARI_SECTION</key>
+    <string>Safari</string>
+    <key>APP_STORE_SECTION</key>
+    <string>App Store</string>
+    <key>CAMERA_SECTION</key>
+    <string>Camera</string>
+    <key>PHONE_SECTION</key>
+    <string>Điện thoại</string>
+    <key>OTHER_HEADER</key>
+    <string>Khác</string>
+    <key>EXPERIMENTAL_SECTION</key>
+    <string>Thử nghiệm</string>
+    <key>THIRD_PARTY_SECTION</key>
+    <string>Ứng dụng bên thứ 3</string>
+    <key>CONTACT_DEVELOPER</key>
+    <string>Liên hệ</string>
+    <key>SUPPORT_HEADER</key>
+    <string>Hỗ trợ</string>
+    <key>REQUEST_FEATURE</key>
+    <string>Yêu cầu tính năng</string>
+    <key>REPORT_BUG</key>
+    <string>Báo cáo lỗi</string>
+    <key>TWEAK_GRAPHICS</key>
+    <string>Thiết kế biểu tượng</string>
+    <key>TRANSLATIONS</key>
+    <string>Người phiên dịch</string>
+    <key>Đóng góp</key>
+    <string></string>
+    <key>TROUBLESHOOTING</key>
+    <string>Sự cố</string>
+    <key>CHECK_OUT_SATINE</key>
+    <string>Check out Satiné</string>
+    <key>APPLY_BUTTON</key>
+    <string>Áp dụng</string>
+    <key>TWEAK_BLACKLIST</key>
+    <string>Danh sách đen</string>
+    <key>DISABLE_IN</key>
+    <string>Tắt Lynx trong ứng dụng</string>
+    <key>OTHER_TWEAKS</key>
+    <string>Dự án khác</string>
+    <key>TRANSLATORS</key>
+    <string>Người phiên dịch</string>
+    <key>SPECIAL_THANKS</key>
+    <string>Chân thành cảm ơn</string>
+    <key>RESET_SETTINGS</key>
+    <string>Đặt lại</string>
+    <key>RESET_SETTINGS_WARNING</key>
+    <string>Bạn có chắc đặt lại cài đặt?</string>
+</dict>
+</plist>

@@ -1,0 +1,184 @@
+<plist version="1.0">
+<dict>
+    <key>APP_INTERFACE_STYLE</key>
+    <string>Giao diện ứng dụng</string>
+    <key>DARK_MODE</key>
+    <string>Tối</string>
+    <key>LIGHT_MODE</key>
+    <string>Sáng</string>
+    <key>DOCK</key>
+    <string>Dock</string>
+    <key>HIDE_DOCK_BACKGROUND</key>
+    <string>Ẩn nền Dock</string>
+    <key>USE_CUSTOM_ICON_COUNT</key>
+    <string>Tùy chỉnh số biểu tượng</string>
+    <key>HOME_BAR</key>
+    <string>Home Bar</string>
+    <key>HIDE_BAR_EVERYWHERE</key>
+    <string>Ẩn ở mọi nơi</string>
+    <key>TABLE_VIEWS</key>
+    <string>Bảng xem</string>
+    <key>HIDE_TABLE_VIEW_SEPARATORS</key>
+    <string>Ẩn dải ngăn cách</string>
+    <key>USE_CUSTOM_COLOR</key>
+    <string>Màu tùy chỉnh</string>
+    <key>COLORPICKER_TINT_COLOR</key>
+    <string>Màu sắc</string>
+    <key>SEARCH_BARS</key>
+    <string>Thanh tìm kiếm</string>
+    <key>HIDE_SEARCH_BARS</key>
+    <string>Ẩn hoàn toàn</string>
+    <key>HIDE_SEARCH_BAR_BACKGROUND</key>
+    <string>Ẩn nền</string>
+    <key>SEARCH_BAR_WARNING</key>
+    <string>Ẩn thanh tìm kiếm có thể làm ứng dụng hơi lạ</string>
+    <key>SCREENSHOTS</key>
+    <string>Ảnh chụp màn hình</string>
+    <key>HIDE_FLASH</key>
+    <string>Ẩn nháy màn hình</string>
+    <key>FLASH_TINT_COLOR</key>
+    <string>Màu nhấp nháy</string>
+    <key>SCROLL_INDICATORS</key>
+    <string>Thanh cuộn</string>
+    <key>HIDE_SCROLL_BARS</key>
+    <string>Ẩn thanh cuộn</string>
+    <key>NAVIGATION_BARS</key>
+    <string>Thanh điều hướng</string>
+    <key>HIDE_SHADOW_IMAGE</key>
+    <string>Ẩn hình ảnh đổ bóng</string>
+    <key>FOLDERS</key>
+    <string>Thư mục</string>
+    <key>HIDE_FOLDER_TITLES</key>
+    <string>Ẩn tiêu đề thư mục</string>
+    <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
+    <string>Ẩn nền mở thư mục</string>
+    <key>HIDE_FOLDER_ICON_BACKGROUND</key>
+    <string>Ẩn nền biểu tượng thư mục</string>
+    <key>CLOSE_FOLDER_AUTOMATICALLY</key>
+    <string>Tự động đóng</string>
+    <key>ICONS</key>
+    <string>Biểu tượng</string>
+    <key>HIDE_LABELS</key>
+    <string>Ẩn nhãn</string>
+    <key>HIDE_PAGE_DOTS</key>
+    <string>Hide Page Dots</string>
+    <key>HIDE_UPDATE_DOTS</key>
+    <string>Ẩn chấm trang</string>
+    <key>SHOW_DONE_BUTTON</key>
+    <string>Hiện phím 'Xong'</string>
+    <key>USE_CUSTOM_LABEL_COLOR</key>
+    <string>Màu nhãn ứng dụng</string>
+    <key>SWITCHES</key>
+    <string>Công tắt</string>
+    <key>USE_CUSTOM_SWITCH_COLOR</key>
+    <string>Màu tùy chỉnh</string>
+    <key>BADGES</key>
+    <string>Huy hiệu</string>
+    <key>HIDE_BADGES</key>
+    <string>Ẩn huy hiệu</string>
+    <key>USE_AVERAGE_COLOR</key>
+    <string>Màu tự động</string>
+    <key>FORCE_TOUCH</key>
+    <string>3D Touch</string>
+    <key>HIDE_SHARE_OPTION</key>
+    <string>Ẩn Chia sẻ ứng dụng</string>
+    <key>HIDE_DELETE_OPTION</key>
+    <string>Ẩn Xóa ứng dụng</string>
+    <key>HIDE_EDIT_OPTION</key>
+    <string>Ẩn Sửa màn hình chính</string>
+    <key>REVERSE_ACTION_ORDER</key>
+    <string>Đảo ngược hành động</string>
+    <key>HIDE_ACTION_ICONS</key>
+    <string>Ẩn biểu tượng</string>
+    <key>SHOW_IP_ADDRESS</key>
+    <string>Hiện địa chỉ IP</string>
+    <key>SHOW_BATTERY_LEVEL</key>
+    <string>Hiện mức pin</string>
+    <key>HIDE_SEPARATOR_LINES</key>
+    <string>Ẩn dải ngăn cách</string>
+    <key>SCREEN_TIME</key>
+    <string>Thời gian chờ tải xuống</string>
+    <key>DISABLE_ICON_DARKENING</key>
+    <string>Loại bỏ làm tối biểu tượng</string>
+    <key>DISABLE_HOURGLASS_ICON</key>
+    <string>Loại bỏ vòng tròn đếm ngược</string>
+    <key>BREADCRUMBS</key>
+    <string>Breadcrumbs</string>
+    <key>HIDE_APP_BREADCRUMBS</key>
+    <string>Ẩn Breadcrumbs</string>
+    <key>TAB_BAR_LABELS</key>
+    <string>Tiêu đề thanh tab</string>
+    <key>HIDE_TAB_BAR_LABELS</key>
+    <string>Ẩn tiêu đề</string>
+    <key>HOMESCREEN_WIDGETS</key>
+    <string>Tiện ích màn hình chính</string>
+    <key>HIDE_ADD_WIDGET_TEXT</key>
+    <string>Ẩn 'Thêm tiện ích'</string>
+    <key>FACEID_ALERT</key>
+    <string>Pop-up Face ID</string>
+    <key>USE_CUSTOM_FACEID_ANIMATIONS</key>
+    <string>Tùy chỉnh hoạt ảnh Face ID</string>
+    <key>FACID_DISMISSAL_TIME</key>
+    <string>Thời gian loại bỏ Face ID</string>
+    <key>FACEID_ANIMATION_LENGTH</key>
+    <string>Độ dài hiệu ứng Face ID</string>
+    <key>LOW_POWER_MODE</key>
+    <string>Chế độ tiết kiệm pin</string>
+    <key>DISABLE_AUTO_LOCK</key>
+    <string>Loại bỏ tự động khóa</string>
+    <key>ANIMATIONS</key>
+    <string>Hoạt ảnh</string>
+    <key>ICON_FLY_IN</key>
+    <string>Loại bỏ biểu tượng bay vào trong</string>
+    <key>SYSTEM_WIDE</key>
+    <string>Hệ thống</string>
+    <key>HIDE_VOLUME_HUD</key>
+    <string>Ẩn Volume HUD</string>
+    <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
+    <string>Cột biểu tượng tùy chỉnh</string>
+    <key>USE_MODERN_STYLE_TABLEVIEWS</key>
+    <string>Kiểu hiện đại</string>
+    <key>FORCE_SMALL_TITLES</key>
+    <string>Buộc tiêu đề nhỏ</string>
+    <key>HIDE_BETA_FEEDBACK</key>
+    <string>Ẩn Gửi phản hồi Beta</string>
+    <key>VOLUME_HUD</key>
+    <string>Volume HUD</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Loại bỏ trong màn hình chính</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>Ẩn chấm Beta</string>
+    <key>DISABLE_SCREENSHOT_SOUND</key>
+    <string>Loại bỏ âm thanh chụp màn hình</string>
+    <key>HIDE_BAR_LOCKSCREEN</key>
+    <string>Loại bỏ trong màn hình khóa</string>
+    <key>HIDE_COMPLETELY</key>
+    <string>Ẩn hoàn toàn</string>
+    <key>SELECT_APPS</key>
+    <string>Chọn ứng dụng</string>
+    <key>ADD_CLEAR_BADGES</key>
+    <string>Thêm Xóa huy hiệu</string>
+    <key>HIDE_EXPANDED_WIDGETS</key>
+    <string>Ẩn mở rộng tiện ích</string>
+    <key>DRAG_DROP</key>
+    <string>Kéo & Thả</string>
+    <key>ENABLE_DRAG_DROP</key>
+    <string>Bật kéo và thả</string>
+    <key>WALLPAPER</key>
+    <string>Hình nền</string>
+    <key>DISABLE_DARKENING</key>
+    <string>Loại bỏ làm tối</string>
+    <key>HIDE_BADGE_TEXT</key>
+    <string>Ẩn văn bản huy hiệu</string>
+    <key>DARKENING_WARNING</key>
+    <string>Loại bỏ làm tối cũng sẽ bật thu phóng</string>
+    <key>ICON_SCALE</key>
+    <string>Kích thước biểu tượng</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Tùy chỉnh kích thước</string>
+    <key>SCALE_WARNING</key>
+    <string>Kích thước từ 100% đến 200%</string>
+    <key>DOUBLE_TAP_LOCK</key>
+    <string>Chạm 2 lần để khóa</string>
+</dict>
+</plist>

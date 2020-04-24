@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>ADVERTISEMENTS</key>
+    <string>Quảng cáo</string>
+    <key>BLOCK_ADVERTISEMENTS</key>
+    <string>Chặn quảng cáo</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<plist version="1.0">
+<dict>
+    <key>PLAYBACK</key>
+    <string>Trình chạy</string>
+    <key>ALLOW_BACKGROUND_PLAYBACK</key>
+    <string>Cho phép chạy nền</string>
+    <key>BLOCK_ADS</key>
+    <string>Chặn quảng cáo</string>
+    <key>TAB_BAR</key>
+    <string>Thanh Tab</string>
+    <key>HIDE_LABELS</key>
+    <string>Ẩn nhãn</string>
+</dict>
+</plist>
