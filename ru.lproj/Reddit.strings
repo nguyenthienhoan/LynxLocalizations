@@ -1,8 +1,0 @@
-<plist version="1.0">
-<dict>
-    <key>COINS</key>
-    <string>Монетка</string>
-    <key>HIDE_COIN_BUTTON</key>
-    <string>Скрыть Кнопку Монетки</string>
-</dict>
-</plist> 

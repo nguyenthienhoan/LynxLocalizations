@@ -1,8 +1,0 @@
-<plist version = "1.0">
- <dict>
-     <key> POSTS </ key>
-     <string>投稿</ string>
-     <key> SHOW_LIKES </ key>
-     <string>いいね</ show>
- </ dict>
- </ plist>

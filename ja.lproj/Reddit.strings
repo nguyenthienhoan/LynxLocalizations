@@ -1,8 +1,0 @@
-<plist version = "1.0">
- <dict>
-     <key> COINS </ key>
-     <string>コイン</ string>
-     <key> HIDE_COIN_BUTTON </ key>
-     <string>コインボタンを非表示</ string>
- </ dict>
- </ plist>

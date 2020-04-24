@@ -1,8 +1,0 @@
-<plist version = "1.0">
- <dict>
-     <key>ADVERTISEMENTS </ key>
-     <string>広告</ string>
-     <key> BLOCK_ADVERTISEMENTS </ key>
-     <string>ブロック広告</ string>
- </ dict>
- </ plist>

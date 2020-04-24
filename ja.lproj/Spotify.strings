@@ -1,8 +1,0 @@
-<plist version = "1.0">
- <dict>
-     <key> POPUPS </ key>
-     <string>ポップアップ</ string>
-     <key> BLOCK_RATE_US </ key>
-     <string>「Rate Us」ポップアップをブロック</ string>
- </ dict>
- </ plist>
